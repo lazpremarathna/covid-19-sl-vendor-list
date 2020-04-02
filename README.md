@@ -1,0 +1,1 @@
+# covid-19-sl-vendor-list
