@@ -11,7 +11,7 @@
 		content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
 	<meta name="HandheldFriendly" content="true">
 	<!-- Page Title -->
-	<title>Covid-19 | Sri Lanka Vendor List</title>
+	<title>Covid-19 | Gas Vendors List</title>
 	<meta name="author" content="All the Sri Lankans" />
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
@@ -27,6 +27,7 @@
 	<link rel="stylesheet" id="muli"
 		href="https://fonts.googleapis.com/css2?family=Muli:wght@200;300;400;500;600;700;800&display=swap">
 	<!-- Plugin CSS -->
+	<link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.16.0/dist/bootstrap-table.min.css">
 
 	<!-- Custom CSS -->
 	<link href="assets/css/main.css" rel="stylesheet" type="text/css">
@@ -41,7 +42,7 @@
 
 	<nav class="navbar navbar-expand-lg navbar-light">
 		<div class="container">
-			<a class="navbar-brand" href="#">COVID -19 RESOURCE FINDER</a>
+			<a class="navbar-brand" href="index.html">COVID -19 RESOURCE FINDER</a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample07"
 				aria-controls="navbarsExample07" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
@@ -52,7 +53,7 @@
 					<li class="nav-item">
 						<a class="nav-link" href="#">GROCERIES & VEGE</a>
 					</li>
-					<li class="nav-item">
+					<li class="nav-item active">
 						<a class="nav-link" href="#">GAS</a>
 					</li>
 					<li class="nav-item">
@@ -68,110 +69,34 @@
 		<!-- Main -->
 		<div id="main" class="container">
 			<div class="inner container">
-				<section>
-					<div class="row help-them-banner">
-						<div class="col-md-5">
-							<h1>Let’s<br />support<br />them.</h1>
-							<h4>by staying<br />where ever you are</h4>
-						</div>
-						<div class="col-md-7">
-							<img src="images/covid-19-sri-lanka-vendor-list-doctors-01.png" alt=""
-								style="width:100%; height:auto;">
-						</div>
-					</div>
-					<div class="row justify-content-center show-me-button">
-						<div class="col-12" style="text-align:center;">
-							<a href="#vendors"><button class="button-covid">Show me the vendors list</button></a>
-						</div>
-					</div>
-				</section>
-
-				<section id="how-to-do" style="margin-top: 5em;">
+				<section id="gas-vendors" style="margin-top: 5em;">
 					<div class="row">
 						<div class="col-12">
-							<h2 class="type-2-heading">How...??</h2>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-4">
-							<div id="step-01" class="step">
-								<div class="square step-square">
-									<img src="images/find-what-ever-you-want-01.png" alt=""
-										style="width:100%; height:auto;">
-								</div>
-								<div class="step-title">
-									<h5><strong class="step-title-number">01.</strong><br />Find what ever<br />you want
-									</h5>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-4">
-							<div id="step-02" class="step">
-								<div class="square step-square">
-									<img src="images/contact-the-vendor-01.png" alt="" style="width:100%; height:auto;">
-								</div>
-								<div class="step-title">
-									<h5><strong class="step-title-number">02.</strong><br />Contact the vendor<br />&
-										place your order</h5>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-4">
-							<div id="step-03" class="step">
-								<div class="square step-square">
-									<img src="images/collect-them-at-your-doorstep-01.png" alt=""
-										style="width:100%; height:auto;">
-								</div>
-								<div class="step-title">
-									<h5><strong class="step-title-number">03.</strong><br />Collect them<br />at your
-										doorstep</h5>
-								</div>
-							</div>
-						</div>
-					</div>
-				</section>
-
-				<section id="vendors" style="margin-top: 5em;">
-					<div class="row">
-						<div class="col-12">
-							<h2 class="type-2-heading">Vendors</h2>
+							<h2 class="type-2-heading"> Gas Vendors</h2>
 							<p>*** Please note that, We cannot vouch for any of these vendors, please use caution. Also
 								cannot promise they will pick up the phone and / or deliver as promised. This is merely
 								a list prepared for your convenience.</p>
 						</div>
 					</div>
-					<div class="row">
-						<div class="col-md-4">
-							<div id="vendor-category-01" class="vendor-category">
-								<a href="">
-									<div class="square vendor-category-square">
-										<img class="image" src="images/groceries-&-vegetables-01.png" alt="Groceries & vegetables" style="width:100%; height:auto;">
-										<h2 class="category-title"><strong>Groceries & vegetables</strong></h2>
-									</div>
-								</a>
-							</div>
-						</div>
-						<div class="col-md-4">
-							<div id="vendor-category-02" class="vendor-category">
-								<a href="">
-									<div class="square vendor-category-square">
-										<img class="image" src="images/gas-01.png" alt="Gas" style="width:100%; height:auto;">
-										<h2 class="category-title"><strong>Gas</strong></h2>
-									</div>
-								</a>
-							</div>
-						</div>
-						<div class="col-md-4">
-							<div id="vendor-category-03" class="vendor-category">
-								<a href="">
-									<div class="square vendor-category-square">
-										<img class="image" src="images/medicines-01.png" alt="Medicines" style="width:100%; height:auto;">
-										<h2 class="category-title"><strong>Medicines</strong></h2>
-									</div>
-								</a>
-							</div>
-						</div>
-					</div>
+					<table data-toggle="table"
+						data-url="vendors/test.json"
+						data-pagination="true"
+						data-pagination-loop="false"
+						data-search="true"
+						data-show-search-clear-button="true" 
+						data-show-refresh="true"
+						data-buttons-class="primary"
+						data-thead-classes="thead-light">
+						<thead>
+							<tr>
+								<th data-field="AREA">Area</th>
+								<th data-field="ITEM TYPE">Item Type</th>
+								<th data-field="VENDOR">Vendor</th>
+								<th data-field="CONTACT DETAILS">Contact Details</th>
+								<th data-field="COMMENTS">Comments</th>
+							</tr>
+						</thead>
+					</table>
 				</section>
 			</div>
 		</div>
@@ -179,20 +104,25 @@
 		<!-- Footer -->
 		<footer id="footer">
 			<div class="inner">
-			<div class="container inner">
-				<section>
-					<h5><strong>Help us to tune the list better</strong></h5>
-					<ul class="icons">
-						<li><a href="https://github.com/lazpremarathna/covid-19-sl-vendor-list" target="_blank" class="icon brands style2 fa-github"><span class="label">GitHub</span></a></li>
-						<li><a href="https://www.facebook.com/groups/198483924918626/" target="_blank" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
+				<div class="container inner">
+					<section>
+						<h5><strong>Help us to tune the list better</strong></h5>
+						<ul class="icons">
+							<li><a href="https://github.com/lazpremarathna/covid-19-sl-vendor-list" target="_blank"
+									class="icon brands style2 fa-github"><span class="label">GitHub</span></a></li>
+							<li><a href="https://www.facebook.com/groups/198483924918626/" target="_blank"
+									class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a>
+							</li>
+						</ul>
+					</section>
+					<ul class="copyright">
+						<li>Design & Developed With <span><i class="fas fa-heart" style="color: #1400AD;"></i></span> in
+							SL</li>
+						<li>Illustrations: Freepik <a href="https://www.freepik.com/stories"
+								target="_blank">@Stories</a></li>
+						<li>Images: <a href="https://unsplash.com/" target="_blank">Unsplash</a></li>
 					</ul>
-				</section>
-				<ul class="copyright">
-					<li>Design & Developed With <span><i class="fas fa-heart" style="color: #1400AD;"></i></span> in SL</li>
-					<li>Illustrations: Freepik <a href="https://www.freepik.com/stories" target="_blank">@Stories</a></li>
-					<li>Images: <a href="https://unsplash.com/" target="_blank">Unsplash</a></li>
-				</ul>
-			</div>
+				</div>
 		</footer>
 
 	</div>
@@ -208,11 +138,10 @@
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
 
 	<!-- Plugin JavaScript -->
+	<script src="https://unpkg.com/bootstrap-table@1.16.0/dist/bootstrap-table.min.js"></script>
+	<!-- <script src="https://unpkg.com/xlsx/dist/xlsx.full.min.js"></script> -->
 
 	<!-- Main Scripts -->
-	<script src="assets/js/browser.min.js"></script>
-	<script src="assets/js/breakpoints.min.js"></script>
-	<script src="assets/js/util.js"></script>
 	<script src="assets/js/main.js"></script>
 
 </body>
