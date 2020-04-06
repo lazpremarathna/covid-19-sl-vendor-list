@@ -18,7 +18,7 @@ Our data is sourced from a variety of sources, primarily Sri Lankan facebook gro
 
 If you would like to contribute features, refactor code, etc., please create or comment on an issue on this repo or to update any missing or incorrect data on the tables, please leave a comment on this spreadsheet, and/or request edit access.
 
-[Covid-19-SL Resource Finder Google Sheet](https://www.facebook.com/groups/198483924918626/).
+[Covid-19-SL Resource Finder Google Sheet](https://docs.google.com/spreadsheets/d/1PuT3-efin_GKYWojTwEXcThGvzCGYTH5MGwOSnRSi8A/edit?usp=sharing).
 
 ## License & Code Re-use
 

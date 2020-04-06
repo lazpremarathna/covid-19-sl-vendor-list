@@ -1,0 +1,93 @@
+﻿[
+    {
+        "itemType": "Water",
+        "district": "Colombo",
+        "areaServed": "Akuregoda",
+        "vendor": "Denham Todd",
+        "contactDetails": "077 727 8399"
+    },
+    {
+        "itemType": "Water",
+        "district": "Colombo",
+        "areaServed": "Battarmulla",
+        "vendor": "Denham Todd",
+        "contactDetails": "077 727 8399"
+    },
+    {
+        "itemType": "Water",
+        "district": "Colombo",
+        "areaServed": "Colombo & Suburbs",
+        "vendor": "American Water",
+        "contactDetails": "077 346 9977"
+    },
+    {
+        "itemType": "Water",
+        "district": "Colombo",
+        "areaServed": "Colombo & Suburbs",
+        "vendor": "American Water",
+        "contactDetails": "076 619 4557"
+    },
+    {
+        "itemType": "Water",
+        "district": "Colombo",
+        "areaServed": "Colombo & Suburbs",
+        "vendor": "American Water",
+        "contactDetails": "077 383 1309"
+    },
+    {
+        "itemType": "Water",
+        "district": "Colombo",
+        "areaServed": "Colombo & Suburbs",
+        "vendor": "American Water",
+        "contactDetails": "077 382 7871"
+    },
+    {
+        "itemType": "Water",
+        "district": "Colombo",
+        "areaServed": "Kalalgoda",
+        "vendor": "Denham Todd",
+        "contactDetails": "077 727 8399"
+    },
+    {
+        "itemType": "Water",
+        "district": "Colombo",
+        "areaServed": "Koswatta",
+        "vendor": "Denham Todd",
+        "contactDetails": "077 727 8399"
+    },
+    {
+        "itemType": "Water",
+        "district": "Colombo",
+        "areaServed": "Madiwela",
+        "vendor": "Denham Todd",
+        "contactDetails": "077 727 8399"
+    },
+    {
+        "itemType": "Water",
+        "district": "Colombo",
+        "areaServed": "Pannipitiya",
+        "vendor": "Denham Todd",
+        "contactDetails": "077 727 8399"
+    },
+    {
+        "itemType": "Water",
+        "district": "Colombo",
+        "areaServed": "Pelawatta",
+        "vendor": "Denham Todd",
+        "contactDetails": "077 727 8399"
+    },
+    {
+        "itemType": "Water",
+        "district": "Colombo",
+        "areaServed": "Thalangama",
+        "vendor": "Denham Todd",
+        "contactDetails": "077 727 8399"
+    },
+    {
+        "itemType": "Water",
+        "district": "Colombo",
+        "areaServed": "Thalawathugoda",
+        "vendor": "Denham Todd",
+        "contactDetails": "077 727 8399"
+    }
+]
