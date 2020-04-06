@@ -1,7 +1,7 @@
 # covid-19-sl-vendors-list
 
 <p align="center">
-	<img src="https://lazpremarathna.github.io/covid-19-sl-vendor-list/images/repo-welcome-img-01.jpeg" alt="" width="100%">
+	<img src="https://lazpremarathna.github.io/covid-19-sl-vendor-list/images/repo-welcome-img-01.jpg" alt="" width="100%">
 </p>
 
 A community powered COVID-19 vendor tracker for Sri Lanka.
