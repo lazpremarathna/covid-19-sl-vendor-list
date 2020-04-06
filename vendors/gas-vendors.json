@@ -1,0 +1,1157 @@
+﻿[
+    {
+        "itemType": "Gas",
+        "district": "Ampara",
+        "areaServed": "Ampara",
+        "vendor": "Shanthapriya Stores",
+        "contactDetails": "077-681 7520 / 063-224 3151"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Ampara",
+        "areaServed": "Ampara",
+        "vendor": "Kalupahana Hardware",
+        "contactDetails": "063-222 4027 / 077-634 0462"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Ampara",
+        "areaServed": "Ampara",
+        "vendor": "Nanayakkara Stores & Hardware",
+        "contactDetails": "077-830 7783 / 076-149 1580"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Ampara",
+        "areaServed": "Ampara",
+        "vendor": "J & R Brothers",
+        "contactDetails": "077-969 7796"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Ampara",
+        "areaServed": "Ampara",
+        "vendor": "Muditha St",
+        "contactDetails": "077-809 4379"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Ampara",
+        "areaServed": "Chawalakadai",
+        "vendor": "Rifnas Stores",
+        "contactDetails": "077-884 7518"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Ampara",
+        "areaServed": "Irakkamam",
+        "vendor": "Afif H/W",
+        "contactDetails": "076-929 2947"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Ampara",
+        "areaServed": "Kalmunai",
+        "vendor": "Rishopan Stores",
+        "contactDetails": "077-632 0522"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Ampara",
+        "areaServed": "Kalmunai",
+        "vendor": "E K Haji Stores",
+        "contactDetails": "077-376 0636"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Ampara",
+        "areaServed": "Kalmunai",
+        "vendor": "Zeenath Home Delivery",
+        "contactDetails": "077-510 9526"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Ampara",
+        "areaServed": "Kalmunai",
+        "vendor": "Uthayan Stores",
+        "contactDetails": "077-958 4005"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Ampara",
+        "areaServed": "Kalmunai",
+        "vendor": "Max Mart",
+        "contactDetails": "077-467 8766"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Ampara",
+        "areaServed": "Kalmunai",
+        "vendor": "Rishopan Stores",
+        "contactDetails": "077-632 0522"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Ampara",
+        "areaServed": "Kalmunaikudy",
+        "vendor": "Irfan Stores",
+        "contactDetails": "077-551 5706"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Badulla",
+        "areaServed": "Nuwara Eliya, Badulla",
+        "vendor": "Laugh Gas",
+        "contactDetails": "077-200 1853"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Malabe",
+        "vendor": "Anura",
+        "contactDetails": 723406154
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Most Areas",
+        "vendor": "Pick Me",
+        "contactDetails": "Mobile App"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Akuregoda",
+        "vendor": "NV Perera",
+        "contactDetails": "077-542 5335"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Athurugirya",
+        "vendor": "Millenium City Gas Cetner",
+        "contactDetails": "078-938 9798"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Battaramulla",
+        "vendor": "Thilaka Enterprises",
+        "contactDetails": "071-656 8599"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Battaramulla",
+        "vendor": "Didula Gas Center",
+        "contactDetails": "077-930 7695"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Battaramulla To Malabe",
+        "vendor": "Suhada Tyre Traders",
+        "contactDetails": "077-392 7856"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Colombo 02",
+        "vendor": "Central Gas",
+        "contactDetails": "011-230 7257"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Colombo 06",
+        "vendor": "Ranga Enterprises",
+        "contactDetails": "011-258 9416"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Colombo 09",
+        "vendor": "Win Enterprises",
+        "contactDetails": "075-574 3505 / 011-267 0569"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Colombo 10",
+        "vendor": "Hafza Gas Center",
+        "contactDetails": "077-881 7799"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Colombo 11",
+        "vendor": "Wimalagiri Enterprises",
+        "contactDetails": "011-279 8345"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Colombo 1-15",
+        "vendor": "Laugh Gas",
+        "contactDetails": "077-382 3650"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Colombo 1-15",
+        "vendor": "Laugh Gas",
+        "contactDetails": "077-226 0463"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Colombo 12",
+        "vendor": "VRR Enterprises",
+        "contactDetails": "011-242 2924"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Colombo 13",
+        "vendor": "Annal Gas",
+        "contactDetails": "076-649 6576"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Colombo 13",
+        "vendor": "Chathura Stores",
+        "contactDetails": "077-877 5912"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Colombo 13",
+        "vendor": "Happy Stationary",
+        "contactDetails": "077-788 4917"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Colombo 13",
+        "vendor": "Aberathna Gas",
+        "contactDetails": "011-243 9349"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Colombo 13",
+        "vendor": "Doshiba Agencey",
+        "contactDetails": "011-247 0120"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Colombo 14",
+        "vendor": "Jayanthi Gas",
+        "contactDetails": "011-492 0208"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Colombo 15",
+        "vendor": "MMM Siyam",
+        "contactDetails": "011-313 3331"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Colombo 15",
+        "vendor": "Inoka Gas",
+        "contactDetails": "011-313 5959"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Colombo 15",
+        "vendor": "7 To Nine",
+        "contactDetails": "077-211 9001"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Colombo 15",
+        "vendor": "Mahajana Gas",
+        "contactDetails": "011-252 7102"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Colombo 15",
+        "vendor": "Dineth Dinithi",
+        "contactDetails": "011-330 1990"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Colombo 15",
+        "vendor": "Central Trading",
+        "contactDetails": "011-252 5204"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Godagama",
+        "vendor": "Thilina Stores",
+        "contactDetails": "011-425 45730"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Hokanadara",
+        "vendor": "Thilini Stores",
+        "contactDetails": "011-440 6596"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Kaduwela",
+        "vendor": "Chandrika Gas",
+        "contactDetails": "071-145 3769"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Katubedda",
+        "vendor": "Prasad Gas",
+        "contactDetails": "011-261 1827"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Kolonnawa",
+        "vendor": "Akila Gas Center",
+        "contactDetails": "077-338 9548 / 076-105 6008"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Kottawa",
+        "vendor": "Vithanage Stores",
+        "contactDetails": "071-091 7303"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Kotte",
+        "vendor": "R. M. M Enterprises",
+        "contactDetails": "077-707 0909"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Kotte",
+        "vendor": "Wasana Gas Center",
+        "contactDetails": "011-283 3145"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Malabe",
+        "vendor": "Sanusansana Gas Center",
+        "contactDetails": "077-720 0898"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Moratuwa",
+        "vendor": "New Global Networks",
+        "contactDetails": "011-264 7104"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Moratuwa",
+        "vendor": "St Michel Traders",
+        "contactDetails": "011-316 4259"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Moratuwa",
+        "vendor": "Ravi Gas",
+        "contactDetails": "077-148 2185"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Narahenpita",
+        "vendor": "At Tech",
+        "contactDetails": "077-202 3456"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Nawala",
+        "vendor": "Royal Gas",
+        "contactDetails": "011-276 9469"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Oruwala",
+        "vendor": "Chandana Stores",
+        "contactDetails": "077-631 7080"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Paliyagoda",
+        "vendor": "Aluthgamage Enterprises",
+        "contactDetails": "011-291 9958"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Paliyagoda",
+        "vendor": "Gihan Gas",
+        "contactDetails": "011-294 9838"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Rajagiriya",
+        "vendor": "Buddhi Enterprises",
+        "contactDetails": "071-489 915"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Rajagiriya",
+        "vendor": "Rangiri Traders",
+        "contactDetails": "077-742 0660 / 077-711 6146"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Rajagiriya",
+        "vendor": "Dilean Gas Centre",
+        "contactDetails": "077-712 2138"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Rathmalana",
+        "vendor": "Amila Gas",
+        "contactDetails": "076-730 7308"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Soysapura",
+        "vendor": "Veenus",
+        "contactDetails": "076-305 1096"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Thalangama",
+        "vendor": "GL Grocery",
+        "contactDetails": "072-592 7479"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Waduwegama",
+        "vendor": "Sanjeewa Multishop",
+        "contactDetails": "077-841 0534"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Wellampitiya",
+        "vendor": "Wisdom Enterprises",
+        "contactDetails": "075-666 6684"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Wellampitiya",
+        "vendor": "Janadhara Stores",
+        "contactDetails": "077-735 1656"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Wellampitiya",
+        "vendor": "Janapriya Traders",
+        "contactDetails": "071-820 4845"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Wellampitiya",
+        "vendor": "Nilanthi Gas Center",
+        "contactDetails": "077-129 4906"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Wellampitiya",
+        "vendor": "Sampath Stores",
+        "contactDetails": "011-426 6220"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Akurumulla",
+        "vendor": "Wijedasa Stores",
+        "contactDetails": "076-610 6288"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Baddolugama",
+        "vendor": "Hansana Gas Centre",
+        "contactDetails": "076-332 9272"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Bandaragama",
+        "vendor": "M N Gas Centre",
+        "contactDetails": "077-777 7419"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Bandaragama",
+        "vendor": "Sri Pathi Communication",
+        "contactDetails": "038-229 0750"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Dekatana",
+        "vendor": "DCP Dissanayake",
+        "contactDetails": "077-851 5781"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Gampaha",
+        "vendor": "Rasitha S",
+        "contactDetails": "076-523 9556"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Gampaha",
+        "vendor": "Nuwan Ambarumhaala",
+        "contactDetails": "071-636 1406"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Gampaha",
+        "vendor": "Laugh Gas",
+        "contactDetails": "077-318 9330"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Ganemulla",
+        "vendor": "Isurusiri",
+        "contactDetails": "071-224 5582"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Ganemulla",
+        "vendor": "TMT Ent",
+        "contactDetails": "077-981 1828"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Ja Ela",
+        "vendor": "Merita Gas",
+        "contactDetails": "071-822 4407"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Ja Ela",
+        "vendor": "Amith Gas",
+        "contactDetails": "076-399 5377"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Ja Ela",
+        "vendor": "Jayamanna Gas",
+        "contactDetails": "077-411 6158"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Kadhana",
+        "vendor": "Kumara Gas Centre",
+        "contactDetails": "077-140 1862"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Kahatowita",
+        "vendor": "City Traders",
+        "contactDetails": "072-999 1748"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Kandana",
+        "vendor": "Vimukthi Gas Centre",
+        "contactDetails": "076-301 6634"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Kelaniya",
+        "vendor": "Danajaya Gas",
+        "contactDetails": "011-291 6998"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Kirillawala",
+        "vendor": "Rusuru Enterprise",
+        "contactDetails": "077-936 5186"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Makola",
+        "vendor": "Navodi Ent",
+        "contactDetails": "077-791 8399"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Mawaramandiya",
+        "vendor": "ACN G/C",
+        "contactDetails": "077-263 5848"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Negombo",
+        "vendor": "C & A Gas",
+        "contactDetails": "077-779 1184"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Negombo",
+        "vendor": "Rodrigo Gas",
+        "contactDetails": "077-236 9737"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Nittambuwa",
+        "vendor": "Sandatharu Suppliers",
+        "contactDetails": "071-155 8496"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Poruthota",
+        "vendor": "Zubir Gas",
+        "contactDetails": "077-706 6723"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Poruthota",
+        "vendor": "Mahajana Gas Center",
+        "contactDetails": "075-065 9565"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Ragama",
+        "vendor": "Kumari",
+        "contactDetails": "072-255 5277"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Seeduwa",
+        "vendor": "Weerasinghe Gas",
+        "contactDetails": "077-978 1010"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Siyabalape",
+        "vendor": "KAD Jayasena Appuhami",
+        "contactDetails": "072-277 3923"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Unnaruwa",
+        "vendor": "St. Anne HW",
+        "contactDetails": "076-691 3351"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Wanawasala",
+        "vendor": "Malani Stores",
+        "contactDetails": "077-877 5912"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Wanawasala",
+        "vendor": "Malani Stores",
+        "contactDetails": "011-293 7509"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Gampaha",
+        "areaServed": "Yakkala",
+        "vendor": "Siyane Agencies",
+        "contactDetails": "033-224 8000"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Hambanthota",
+        "areaServed": "Galle, Matara, Monaragalla, Hambanthota",
+        "vendor": "Laugh Gas",
+        "contactDetails": "077-736 4795"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Batuwita, Pokunuwita, Horana And Suburbs",
+        "vendor": "Kolita WD",
+        "contactDetails": "0712176257/ 0342265659"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Horana And Suburbs",
+        "vendor": "BA Padmasiri",
+        "contactDetails": 776068293
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Aluthgama",
+        "vendor": "Jayantha Peris",
+        "contactDetails": "077-086 2002"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Bandaragama",
+        "vendor": "MN Gas Centre",
+        "contactDetails": "077-777 7419"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Bandaragama",
+        "vendor": "Sri Pathi Communication",
+        "contactDetails": "038-229 0750"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Beruwala",
+        "vendor": "Mahima",
+        "contactDetails": "077-525 2220"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Beruwala",
+        "vendor": "Nazeer Gas",
+        "contactDetails": "077-674 0096"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Dargatown",
+        "vendor": "Gas Tech",
+        "contactDetails": "077 200 4201"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Horana",
+        "vendor": "Vibath Gas",
+        "contactDetails": "077-309 3472"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Ingiriya",
+        "vendor": "Chathuranga Gas",
+        "contactDetails": "077-618 7323"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Kalavila",
+        "vendor": "Nadi Tex",
+        "contactDetails": "034-227 2748"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Kaluthara",
+        "vendor": "U T C Kaluthara",
+        "contactDetails": "077-049 5422"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Kaluthara",
+        "vendor": "Laugh Gas",
+        "contactDetails": "077 313 9192"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Mathugama",
+        "vendor": "Upul",
+        "contactDetails": "075-688 8299"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Moratumulla",
+        "vendor": "Ravi Gas",
+        "contactDetails": "077-148 2185"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Moratuwa",
+        "vendor": "St Michel Traders",
+        "contactDetails": "011-316 4259"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Moratuwa",
+        "vendor": "New Global Networks",
+        "contactDetails": "011-264 7104"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Nagoda",
+        "vendor": "Oshan Gas",
+        "contactDetails": "077-003 7684"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Nagoda",
+        "vendor": "Oshan Gas",
+        "contactDetails": "077-003 7684"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Nagoda",
+        "vendor": "Oshan Gas",
+        "contactDetails": "077-003 7684"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Panadura",
+        "vendor": "Deepaloka Enterprises",
+        "contactDetails": "038-223 4185"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Panadura",
+        "vendor": "Prasanna Enterprises",
+        "contactDetails": "038-223 8826"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Panadura",
+        "vendor": "Deepaloka Enterprices",
+        "contactDetails": "038-223 4185"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Panadura",
+        "vendor": "Sunil Stores",
+        "contactDetails": "038-224 0255"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Panadura",
+        "vendor": "Baby Gas",
+        "contactDetails": "072-286 0491"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Panadura",
+        "vendor": "Insarth Traders",
+        "contactDetails": "038-339 7011"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Panadura",
+        "vendor": "Prasansa Enterprises",
+        "contactDetails": "038-223 8826"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Panadura",
+        "vendor": "Deepaloka Enterprises",
+        "contactDetails": "038-223 4185"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Panadura",
+        "vendor": "Baby Gas",
+        "contactDetails": "072-286 0491"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Panadura",
+        "vendor": "Insarth Traders",
+        "contactDetails": "038-229 7011"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Panadura",
+        "vendor": "Sunil Stores",
+        "contactDetails": "038-224 0255"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Wadduwa",
+        "vendor": "Sanadamali Traders",
+        "contactDetails": "038-223 5939"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Wadduwa",
+        "vendor": "Sadamali Traders",
+        "contactDetails": "038-223 5939"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Wadduwa",
+        "vendor": "Sadamali Tradres",
+        "contactDetails": "038-223 5939"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kandy",
+        "areaServed": "Amunugama",
+        "vendor": "Home Plus",
+        "contactDetails": "076-621 5483"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kandy",
+        "areaServed": "Daluggala",
+        "vendor": "Dasatha Gas",
+        "contactDetails": "071-472 2612"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kandy",
+        "areaServed": "Dangolla",
+        "vendor": "Nawarathna Stores",
+        "contactDetails": "077-606 3458"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kandy",
+        "areaServed": "Gampola, Weligalla, Gelioya",
+        "vendor": "City Gas",
+        "contactDetails": "077-731 1044"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kandy",
+        "areaServed": "Gampola, Weligalla, Gelioya",
+        "vendor": "Mahinda Gas Point",
+        "contactDetails": "077-680 0300"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kandy",
+        "areaServed": "Gampola, Weligalla, Gelioya",
+        "vendor": "Mariyawattha Gas Center",
+        "contactDetails": "077-522 9944"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kandy",
+        "areaServed": "Gampola, Weligalla, Gelioya",
+        "vendor": "Universal Trade Combine",
+        "contactDetails": "081-235 1885 / 077-340 7967"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kandy",
+        "areaServed": "Kandy, Mathale, Kegalla",
+        "vendor": "Laugh Gas",
+        "contactDetails": "077-395 2442 / 071-769 9918"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kandy",
+        "areaServed": "Kandy,Dodamwela,Mulgampola,",
+        "vendor": "Liyanage Gas Point",
+        "contactDetails": "071-644 1283"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kandy",
+        "areaServed": "Katugastota,Haloluwa,Nugawela",
+        "vendor": "AMS Gas Piont",
+        "contactDetails": "075-833 0778"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kandy",
+        "areaServed": "Peradeniya, KIribathkumbura, Muruthalawa, Udaperadeniya",
+        "vendor": "Shodance Agenterprises",
+        "contactDetails": "077-158 2223"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kandy",
+        "areaServed": "Pilimathalawa,Kiribathkumbura, Kadugananwa, Danthure",
+        "vendor": "Janahitha Gas Center",
+        "contactDetails": "077-707 5363"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kilinochchi",
+        "areaServed": "Jaffna, Mannar,Vauniya,Kilinochchi",
+        "vendor": "Laugh Gas",
+        "contactDetails": "077-173 4050"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kurunagala",
+        "areaServed": "Kurunagala",
+        "vendor": "Gas Hous",
+        "contactDetails": "077-744 4628 / 077-159 1016"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kurunagala",
+        "areaServed": "Kurunagala",
+        "vendor": "Sena Gas",
+        "contactDetails": "076-570 4411"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kurunagala",
+        "areaServed": "Kurunagala",
+        "vendor": "CR Perera",
+        "contactDetails": "072-532 5112"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kurunagala",
+        "areaServed": "Kurunega",
+        "vendor": "RKR Hotline",
+        "contactDetails": "072-976 6766"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Matale",
+        "areaServed": "Dambulla",
+        "vendor": "Himali Grocery",
+        "contactDetails": "066-228 4550"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Matale",
+        "areaServed": "Dambulla",
+        "vendor": "Gamini Hardwere",
+        "contactDetails": "077-549 5684"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Matale",
+        "areaServed": "Kurunegala, Halawatha,Dambulla",
+        "vendor": "Laugh Gas",
+        "contactDetails": "077 382 3654"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Matale",
+        "areaServed": "Matale",
+        "vendor": "Leon",
+        "contactDetails": "077-772 3221"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Matale",
+        "areaServed": "Matale",
+        "vendor": "Godapola",
+        "contactDetails": "077-378 8227"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Matale",
+        "areaServed": "Matale",
+        "vendor": "Rasika",
+        "contactDetails": "077-720 6933"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Matale",
+        "areaServed": "Matale",
+        "vendor": "Enter Soluation",
+        "contactDetails": "071-275 1275"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Polonnaruwa",
+        "areaServed": "Anuradhapura, Polonnaruwa",
+        "vendor": "Laugh Gas",
+        "contactDetails": "077-953 6162"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Rathnapura",
+        "areaServed": "Embilipitiya, Rathnapura",
+        "vendor": "Laugh Gas",
+        "contactDetails": "077-338 3595"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Trincomalee",
+        "areaServed": "Batticaloa, Ampara, Trincomalee",
+        "vendor": "Laugh Gas",
+        "contactDetails": "077-418 0897"
+    }
+]

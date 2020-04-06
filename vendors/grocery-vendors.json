@@ -1,0 +1,778 @@
+﻿[
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Arawwala",
+        "vendor": "Afgo International",
+        "contactDetails": "071 299 3897 / 077 227 9047- WhatsApp / Call"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Athurugiriya",
+        "vendor": "Afgo International",
+        "contactDetails": "071 299 3897 / 077 227 9047- WhatsApp / Call"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Battaramulla",
+        "vendor": "Afgo International",
+        "contactDetails": "071 299 3897 / 077 227 9047- WhatsApp / Call"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Battaramulla",
+        "vendor": "Afgo International",
+        "contactDetails": "071 299 3897 / 077 227 9047- WhatsApp / Call"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Bokundara",
+        "vendor": "Afgo International",
+        "contactDetails": "071 299 3897 / 077 227 9047- WhatsApp / Call"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Boralesgamuwa",
+        "vendor": "Afgo International",
+        "contactDetails": "071 299 3897 / 077 227 9047- WhatsApp / Call"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Boralesgamuwa",
+        "vendor": "Ajantha",
+        "contactDetails": "075 5001505 or WhatsApp  071 582 4888"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Boralesgamuwa",
+        "vendor": "Anura",
+        "contactDetails": "072 340 6154"
+    },
+    {
+        "itemType": "Craft Items For Kids",
+        "district": "Colombo",
+        "areaServed": "Colombo",
+        "vendor": "Anura",
+        "contactDetails": "072 340 6154"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Colombo",
+        "vendor": "Arpico",
+        "contactDetails": "011 489 9854"
+    },
+    {
+        "itemType": "Rice",
+        "district": "Colombo",
+        "areaServed": "Colombo & Suburbs",
+        "vendor": "Athuruliya Rice",
+        "contactDetails": "071 587 6876"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Colombo & Suburbs",
+        "vendor": "Cargills Foodcity",
+        "contactDetails": "070 247 1937"
+    },
+    {
+        "itemType": "Biscuits",
+        "district": "Colombo",
+        "areaServed": "Colombo 6",
+        "vendor": "CBL Products",
+        "contactDetails": "Through Pick Me App"
+    },
+    {
+        "itemType": "Biscuits",
+        "district": "Colombo",
+        "areaServed": "Colombo 6",
+        "vendor": "CBL Products",
+        "contactDetails": "Through Pick Me App"
+    },
+    {
+        "itemType": "Biscuits",
+        "district": "Colombo",
+        "areaServed": "Colombo City Limits",
+        "vendor": "CBL Products",
+        "contactDetails": "Through Pick Me App"
+    },
+    {
+        "itemType": "Biscuits",
+        "district": "Colombo",
+        "areaServed": "Dehiwala",
+        "vendor": "CBL Products",
+        "contactDetails": "Through Pick Me App"
+    },
+    {
+        "itemType": "Biscuits",
+        "district": "Colombo",
+        "areaServed": "Dehiwala",
+        "vendor": "CBL Products",
+        "contactDetails": "Through Pick Me App"
+    },
+    {
+        "itemType": "Biscuits",
+        "district": "Colombo",
+        "areaServed": "Dehiwela",
+        "vendor": "CBL Products",
+        "contactDetails": "Through Pick Me App"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Dehiwela",
+        "vendor": "DMN Super",
+        "contactDetails": "dmnsuper2020@gmail.com / storemanager@dmnsuper.lk"
+    },
+    {
+        "itemType": "Rice",
+        "district": "Colombo",
+        "areaServed": "Dehiwela",
+        "vendor": "Five Star Bakers",
+        "contactDetails": "011 529 9714 / 011 529 9711 / 011 273 3967",
+        "comments": "Orders Taken 9-6"
+    },
+    {
+        "itemType": "Rice",
+        "district": "Colombo",
+        "areaServed": "Doesn’t Mention",
+        "vendor": "Five Star Bakers",
+        "contactDetails": "011 5883 251 / 011 588 3253 / 011 528 8454 / 011 529 9713",
+        "comments": "Orders Taken 9-6"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Embuldeniya",
+        "vendor": "Fleminco",
+        "contactDetails": "071 128 2282"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Halpita",
+        "vendor": "Happy  Cart Lanka",
+        "contactDetails": "076 828 1528"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Hokandara",
+        "vendor": "Happy  Cart Lanka",
+        "contactDetails": "076 828 1528"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Kaduwela",
+        "vendor": "Happy Cart Lanka",
+        "contactDetails": "076 828 1528"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Kahathuduwa",
+        "vendor": "Happy Cart Lanka",
+        "contactDetails": "076 828 1528"
+    },
+    {
+        "itemType": "Pasta",
+        "district": "Colombo",
+        "areaServed": "Kalubowila",
+        "vendor": "Home Bargains",
+        "contactDetails": "076 355 2927"
+    },
+    {
+        "itemType": "Rice",
+        "district": "Colombo",
+        "areaServed": "Kesbewa",
+        "vendor": "Home Bargains",
+        "contactDetails": "076 355 2927"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Kirulopane",
+        "vendor": "Jagro",
+        "contactDetails": "077 038 6237 / 077 337 4498 - Text Only"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Kohuwela",
+        "vendor": "Jagro",
+        "contactDetails": "077 038 6237 / 077 337 4498 - Text Only"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Kottawa & Surrounding Areas",
+        "vendor": "Jagro",
+        "contactDetails": "077 038 6237 / 077 337 4498 - Text Only"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Kotte",
+        "vendor": "Jagro",
+        "contactDetails": "077 038 6237 / 077 337 4498 - Text Only"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Madiwela",
+        "vendor": "Jagro",
+        "contactDetails": "077 038 6237 / 077 337 4498 - Text Only"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Maharagama",
+        "vendor": "Jagro",
+        "contactDetails": "077 038 6237 / 077 337 4498 - Text Only"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Maharagama",
+        "vendor": "Jagro",
+        "contactDetails": "077 038 6237 / 077 337 4498 - Text Only"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Malabe",
+        "vendor": "Keels Online",
+        "contactDetails": "Limited Service. Order online"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Malabe",
+        "vendor": "Laugfs Super",
+        "contactDetails": "www.grocerypal.lk"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Malabe",
+        "vendor": "Laugfs Super",
+        "contactDetails": "www.grocerypal.lk"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Mattegoda",
+        "vendor": "Laugfs Super",
+        "contactDetails": "www.grocerypal.lk"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Mirihana",
+        "vendor": "Laugfs Super",
+        "contactDetails": "www.grocerypal.lk"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Moratuwa",
+        "vendor": "Laugfs Super",
+        "contactDetails": "www.grocerypal.lk"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Moratuwa",
+        "vendor": "Laugfs Super",
+        "contactDetails": "www.grocerypal.lk"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Moratuwa",
+        "vendor": "Laugfs Super",
+        "contactDetails": "www.grocerypal.lk"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Mount Lavinia",
+        "vendor": "Laugfs Super",
+        "contactDetails": "www.grocerypal.lk"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Mount Lavinia",
+        "vendor": "Laugfs Super",
+        "contactDetails": "www.grocerypal.lk"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Mount Lavinia",
+        "vendor": "Laugfs Super",
+        "contactDetails": "www.grocerypal.lk"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Mount Lavinia",
+        "vendor": "Lucky Stores",
+        "contactDetails": "075 972 4208"
+    },
+    {
+        "itemType": "Coconuts",
+        "district": "Colombo",
+        "areaServed": "Narahenpita",
+        "vendor": "No Name",
+        "contactDetails": "WhatsApp 077 828 8889"
+    },
+    {
+        "itemType": "Coconuts",
+        "district": "Colombo",
+        "areaServed": "Nawala",
+        "vendor": "No Name",
+        "contactDetails": "077 171 4221"
+    },
+    {
+        "itemType": "Coconuts",
+        "district": "Colombo",
+        "areaServed": "Nawala",
+        "vendor": "No Name",
+        "contactDetails": "077 171 4221"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Nawala",
+        "vendor": "No Name",
+        "contactDetails": "077 368 8933 - Min 10 packs",
+        "comments": "Apartments, Housing Schemes & Condominiums"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Nawinna",
+        "vendor": "No Name",
+        "contactDetails": "011 277 3398",
+        "comments": "Wholesale Shop"
+    },
+    {
+        "itemType": "Dry Rations",
+        "district": "Colombo",
+        "areaServed": "Nedimala",
+        "vendor": "Ransanda Stores",
+        "contactDetails": "WhatsApp 077 403 0291 / 076 852 9399",
+        "comments": "WhatsApp Or Viber"
+    },
+    {
+        "itemType": "Dry Rations",
+        "district": "Colombo",
+        "areaServed": "Nugegoda",
+        "vendor": "Ransanda Stores",
+        "contactDetails": "WhatsApp 077 403 0291 / 076 852 9399",
+        "comments": "WhatsApp Or Viber"
+    },
+    {
+        "itemType": "Dry Rations",
+        "district": "Colombo",
+        "areaServed": "Nugegoda",
+        "vendor": "Ransanda Stores",
+        "contactDetails": "WhatsApp 077 403 0291 / 076 852 9399",
+        "comments": "WhatsApp Or Viber"
+    },
+    {
+        "itemType": "Dry Rations",
+        "district": "Colombo",
+        "areaServed": "Nugegoda",
+        "vendor": "Ransanda Stores",
+        "contactDetails": "WhatsApp 077 403 0291 / 076 852 9399",
+        "comments": "WhatsApp Or Viber"
+    },
+    {
+        "itemType": "Dry Rations",
+        "district": "Colombo",
+        "areaServed": "Pamankada",
+        "vendor": "Ransanda Stores",
+        "contactDetails": "WhatsApp 077 403 0291 / 076 852 9399",
+        "comments": "WhatsApp Or Viber"
+    },
+    {
+        "itemType": "Dry Rations",
+        "district": "Colombo",
+        "areaServed": "Pannipitiya",
+        "vendor": "Ransanda Stores",
+        "contactDetails": "WhatsApp 077 403 0291 / 076 852 9399",
+        "comments": "WhatsApp Or Viber"
+    },
+    {
+        "itemType": "Dry Rations",
+        "district": "Colombo",
+        "areaServed": "Pelawatta",
+        "vendor": "Ransanda Stores",
+        "contactDetails": "WhatsApp 077 403 0291 / 076 852 9399",
+        "comments": "WhatsApp Or Viber"
+    },
+    {
+        "itemType": "Dry Rations",
+        "district": "Colombo",
+        "areaServed": "Pelawatte",
+        "vendor": "Ransanda Stores",
+        "contactDetails": "WhatsApp 077 403 0291 / 076 852 9399",
+        "comments": "WhatsApp Or Viber"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Pepiliyana",
+        "vendor": "Sathosa Via Pick Me App",
+        "contactDetails": "Pick Me App"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Pepiliyana",
+        "vendor": "Sierra Rice Products",
+        "contactDetails": "071 384 6327 / 071 744 6331 / 071 472 3211"
+    },
+    {
+        "itemType": "Coconut Products",
+        "district": "Colombo",
+        "areaServed": "Piliyandala",
+        "vendor": "Silver Mill",
+        "contactDetails": "071 048 3782"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Polgasowita",
+        "vendor": "Suhada Traders",
+        "contactDetails": "Call 011 283 4036"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Rajagiriya",
+        "vendor": "Suhada Traders",
+        "contactDetails": "Call 011 283 4036"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Ratmalana",
+        "vendor": "Suhada Traders",
+        "contactDetails": "Call 011 283 4036"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Thalapathpitiya",
+        "vendor": "Suhada Traders",
+        "contactDetails": "Call 011 283 4036"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Thalawathugoda",
+        "vendor": "Suhada Traders",
+        "contactDetails": "Call 011 283 4036"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Colombo",
+        "areaServed": "Udahamulla",
+        "vendor": "Suhada Traders",
+        "contactDetails": "Call 011 283 4036"
+    },
+    {
+        "itemType": "Coconuts",
+        "district": "Gampaha",
+        "areaServed": "Biyagama",
+        "vendor": "Lakshman",
+        "contactDetails": "077 721 5303"
+    },
+    {
+        "itemType": "Rice",
+        "district": "Gampaha",
+        "areaServed": "Biyagama",
+        "vendor": "Lakshman",
+        "contactDetails": "077 721 5303"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Gampaha",
+        "areaServed": "Biyagama",
+        "vendor": "Manchanayaka Stores",
+        "contactDetails": "077 578 6247"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Gampaha",
+        "areaServed": "Minuwangoda",
+        "vendor": "Minuwangoda Co-Op",
+        "contactDetails": "011 563 7404"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Gampaha",
+        "areaServed": "Wattala",
+        "vendor": "OMG Foods",
+        "contactDetails": "SMS or WhatsApp 070 510 1077",
+        "comments": "Upto A 10KM Radius"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Gampaha",
+        "areaServed": "Wattala",
+        "vendor": "Podimalli Kade",
+        "contactDetails": "072 355 5081"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Gampaha",
+        "areaServed": "Wattala",
+        "vendor": "Snadamali Kade",
+        "contactDetails": "011 292 2356"
+    },
+    {
+        "itemType": "Coconuts",
+        "district": "Kalutara",
+        "areaServed": "Batuwita, Pokunuwita, Horana And Suburbs",
+        "vendor": "ADM Pradeep",
+        "contactDetails": "077 454 7741"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Kalutara",
+        "areaServed": "Batuwita, Pokunuwita, Horana And Suburbs",
+        "vendor": "Agri Firm",
+        "contactDetails": "075 502 3940"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Kalutara",
+        "areaServed": "Batuwita, Pokunuwita, Horana And Suburbs",
+        "vendor": "Amarabandu",
+        "contactDetails": "071 879 7160"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Kalutara",
+        "areaServed": "Batuwita, Pokunuwita, Horana And Suburbs",
+        "vendor": "Amarasinghe",
+        "contactDetails": "071 350 0104"
+    },
+    {
+        "itemType": "Coconuts",
+        "district": "Kalutara",
+        "areaServed": "Batuwita, Pokunuwita, Horana And Suburbs",
+        "vendor": "BA Padmasiri",
+        "contactDetails": "077 606 8293"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Kalutara",
+        "areaServed": "Batuwita, Pokunuwita, Horana And Suburbs",
+        "vendor": "Chathura Deshapriya",
+        "contactDetails": "077 543 2313"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Kalutara",
+        "areaServed": "Horana And Suburbs",
+        "vendor": "City Mom",
+        "contactDetails": "071 588 4355"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Kalutara",
+        "areaServed": "Horana And Suburbs",
+        "vendor": "Hemantha Karunaratne",
+        "contactDetails": "077 664 4096"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Kalutara",
+        "areaServed": "Horana And Suburbs",
+        "vendor": "Horana Co-Op",
+        "contactDetails": "076 951 0343"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Kalutara",
+        "areaServed": "Horana And Suburbs",
+        "vendor": "Kalinga Rodrigo",
+        "contactDetails": "071 651 4258"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Kalutara",
+        "areaServed": "Horana And Suburbs",
+        "vendor": "Keerthi Suriyarachchi",
+        "contactDetails": "075 214 8151"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Kalutara",
+        "areaServed": "Horana And Suburbs",
+        "vendor": "Kolita WD",
+        "contactDetails": "071 217 6257 / 034 226 5659"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Kalutara",
+        "areaServed": "Horana And Suburbs",
+        "vendor": "Kudagama Stores",
+        "contactDetails": "071 807 3073 / 075 787 6876 - WhatsApp, Viber"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Kalutara",
+        "areaServed": "Horana And Suburbs",
+        "vendor": "Lakshitha Manahara",
+        "contactDetails": "077 127 3151"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Kalutara",
+        "areaServed": "Horana And Suburbs",
+        "vendor": "Lasantha Pushpa",
+        "contactDetails": "077 326 0560"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Kalutara",
+        "areaServed": "Horana And Suburbs",
+        "vendor": "Loku Liyanage",
+        "contactDetails": "071 417 9611"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Kalutara",
+        "areaServed": "Horana And Suburbs",
+        "vendor": "Manoj Gayan",
+        "contactDetails": "071 498 5648"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Kalutara",
+        "areaServed": "Horana And Suburbs",
+        "vendor": "P. Manoj Gayan",
+        "contactDetails": "071 408 5648"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Kalutara",
+        "areaServed": "Kalutara",
+        "vendor": "Prasanna Premashantha",
+        "contactDetails": "077 690 2861"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Kalutara",
+        "areaServed": "Kalutara",
+        "vendor": "Quickshop.Lk",
+        "contactDetails": "075 925 9847"
+    },
+    {
+        "itemType": "Spices",
+        "district": "Kalutara",
+        "areaServed": "North, South Uduwa, Maha Uduwa, Kuda Uduwa",
+        "vendor": "Ranjith Senatne",
+        "contactDetails": "077 740 5380"
+    },
+    {
+        "itemType": "Coconuts",
+        "district": "Kalutara",
+        "areaServed": "North, South Uduwa, Maha Uduwa, Kuda Uduwa",
+        "vendor": "Sampath Athukorala",
+        "contactDetails": "071 325 1684"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Kalutara",
+        "areaServed": "Panadura",
+        "vendor": "Thusitha Harshana",
+        "contactDetails": "077 470 1187"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Kalutara",
+        "areaServed": "Panadura",
+        "vendor": "ULKS Kumara",
+        "contactDetails": "077 308 4880"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Kalutara",
+        "areaServed": "Rambukkana, Kegalle",
+        "vendor": "Vegetables And Groceries",
+        "contactDetails": "071 299 4302"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Kalutara ",
+        "areaServed": "Panadura",
+        "vendor": "DMN Super",
+        "contactDetails": "dmnsuper2020@gmail.com "
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Kalutara ",
+        "areaServed": "Panadura",
+        "vendor": "Rathna Super",
+        "contactDetails": "077 461 7878"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Kandy",
+        "areaServed": "Katugasthota",
+        "vendor": "Food City",
+        "contactDetails": "081 242 4456"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Kandy",
+        "areaServed": "Kundasale",
+        "vendor": "Food City",
+        "contactDetails": "081 220 3043"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Rathnapura",
+        "areaServed": "Balangoda",
+        "vendor": "Chamara Storse",
+        "contactDetails": "077 931 0025"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Rathnapura",
+        "areaServed": "Balangoda",
+        "vendor": "Crown Sahana Sewa",
+        "contactDetails": "071 156 6213 / 070 285 6210"
+    },
+    {
+        "itemType": "Rice",
+        "district": "Rathnapura",
+        "areaServed": "Rathnapura",
+        "vendor": "Nihal Rice",
+        "contactDetails": "072-494 9152"
+    },
+    {
+        "itemType": "Groceries",
+        "district": "Rathnapura",
+        "areaServed": "Rathnapura ( This District Only)",
+        "vendor": "Rathanpura Co-Op",
+        "contactDetails": "071 253 3614 / 071 081 0308 / 071 828 2221"
+    }
+]
