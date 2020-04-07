@@ -4,21 +4,21 @@
         "district": "Colombo",
         "areaServed": "Boralesgamuwa",
         "vendor": "Susiko",
-        "contactDetails": 772992920
+        "contactDetails": "077 299 2920"
     },
     {
         "itemType": "Bread",
         "district": "Colombo",
         "areaServed": "Colombo",
         "vendor": "Paan Paan",
-        "contactDetails": 770500020
+        "contactDetails": "077 050 0020"
     },
     {
         "itemType": "Bread",
         "district": "Colombo",
         "areaServed": "Colombo",
         "vendor": "Sensaal",
-        "contactDetails": 764343030
+        "contactDetails": "076 434 3030"
     },
     {
         "itemType": "Bread",
@@ -32,7 +32,7 @@
         "district": "Colombo",
         "areaServed": "Colombo",
         "vendor": "Finagle",
-        "contactDetails": 777267797
+        "contactDetails": "077 726 7797"
     },
     {
         "itemType": "Savory Items",
@@ -46,7 +46,7 @@
         "district": "Colombo",
         "areaServed": "Dehiwela",
         "vendor": "Finagle Delivery",
-        "contactDetails": 772653457
+        "contactDetails": "077 265 3457"
     },
     {
         "itemType": "Bread",
@@ -85,13 +85,13 @@
         "district": "Kalutara",
         "areaServed": "Batuwita, Pokunuwita, Horana And Suburbs",
         "vendor": "Devika Kariyawasam",
-        "contactDetails": 712757681
+        "contactDetails": "071 275 7681"
     },
     {
         "itemType": "Bread",
         "district": "Kalutara",
         "areaServed": "Panadura",
         "vendor": "No Name",
-        "contactDetails": 777788835
+        "contactDetails": "077 778 8835"
     }
 ]
