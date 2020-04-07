@@ -1,318 +1,334 @@
 ﻿[
     {
-        "itemType": "Dairy & Other Products",
+        "itemType": "Milk / Yogurt",
         "district": "Colombo",
         "areaServed": "Angoda",
-        "vendor": "Elephant House",
-        "contactDetails": "076 529 9452 / 077 395 6512/ 077 395 6508/ 077 395 6517"
+        "vendor": "Richlife",
+        "contactDetails": "077 254 9668 / 071 231 9572"
+    },
+    {
+        "itemType": "Milk / Yogurt",
+        "district": "Colombo",
+        "areaServed": "Athurugiriya",
+        "vendor": "Richlife",
+        "contactDetails": "077 378 9880"
+    },
+    {
+        "itemType": "Milk / Yogurt",
+        "district": "Colombo",
+        "areaServed": "Battaramulla",
+        "vendor": "Richlife",
+        "contactDetails": "077 254 9668 / 071 231 9572"
+    },
+    {
+        "itemType": "Butter ",
+        "district": "Colombo",
+        "areaServed": "Colombo",
+        "vendor": "Pelawatta Milk",
+        "contactDetails": "WhatsApp or SMS 071 021 5162"
+    },
+    {
+        "itemType": "Milk Powder",
+        "district": "Colombo",
+        "areaServed": "Colombo",
+        "vendor": "Pelawatta Milk",
+        "contactDetails": "WhatsApp or SMS 071 021 5162"
+    },
+    {
+        "itemType": "Yoghurt",
+        "district": "Colombo",
+        "areaServed": "Colombo",
+        "vendor": "Pelawatta Milk",
+        "contactDetails": "WhatsApp or SMS 071 021 5162"
     },
     {
         "itemType": "Dairy & Other Products",
         "district": "Colombo",
-        "areaServed": "Athurugiriya",
-        "vendor": "Elephant House",
-        "contactDetails": "076 529 9452 / 077 395 6512/ 077 395 6508/ 077 395 6517"
+        "areaServed": "Colombo And Suburbs",
+        "vendor": "Kotmale",
+        "contactDetails": "077 365 9804 / 077 396 4685 / 077 365 9804"
     },
     {
-        "itemType": "Milk",
-        "district": "Colombo",
-        "areaServed": "Battaramulla",
-        "vendor": "Gentral Marketing",
-        "contactDetails": "077 742 1457",
-        "comments": "12 lt"
-    },
-    {
-        "itemType": "Milk",
+        "itemType": "Dairy & Other Products",
         "district": "Colombo",
         "areaServed": "Colombo, Avissawella And Suburbs",
-        "vendor": "Kotmale Products",
-        "contactDetails": "077 365 9804 / 077 396 4685 / 077 365 9804 or WhatsApp 077 3250867"
+        "vendor": "Elephant House",
+        "contactDetails": "076 529 9452 / 077 395 6512 / 077 395 6508 / 077 395 6517"
+    },
+    {
+        "itemType": "Milk",
+        "district": "Colombo",
+        "areaServed": "Dehiwala",
+        "vendor": "Gentral Marketing",
+        "contactDetails": "077 742 1457",
+        "comments": "12lt/"
     },
     {
         "itemType": "Milk",
         "district": "Colombo",
         "areaServed": "Dehiwela",
-        "vendor": "Kotmale Products",
-        "contactDetails": "077 365 9804 / 077 396 4685 / 077 365 9804 or WhatsApp 077 3250867"
+        "vendor": "Sampath",
+        "contactDetails": "075 466 1909"
     },
     {
-        "itemType": "Milk",
+        "itemType": "Yoghurt",
         "district": "Colombo",
         "areaServed": "Dehiwela",
-        "vendor": "Kotmale Products",
-        "contactDetails": "077 365 9804 / 077 396 4685 / 077 365 9804 or WhatsApp 077 3250867"
+        "vendor": "Sampath",
+        "contactDetails": "075 466 1909"
     },
     {
-        "itemType": "Milk Powder",
+        "itemType": "Milk / Yogurt",
         "district": "Colombo",
         "areaServed": "Dematagoda",
-        "vendor": "Nipuna Nirmal",
-        "contactDetails": "071 101 4300"
+        "vendor": "Richlife",
+        "contactDetails": "077 254 9668 / 071 231 9572"
+    },
+    {
+        "itemType": "Milk / Yogurt",
+        "district": "Colombo",
+        "areaServed": "Himbutana",
+        "vendor": "Richlife",
+        "contactDetails": "077 254 9668 / 071 231 9572"
+    },
+    {
+        "itemType": "Milk / Yogurt",
+        "district": "Colombo",
+        "areaServed": "Hokandara",
+        "vendor": "Richlife",
+        "contactDetails": "077 378 9880"
+    },
+    {
+        "itemType": "Milk / Yogurt",
+        "district": "Colombo",
+        "areaServed": "Homagama",
+        "vendor": "Richlife",
+        "contactDetails": "077 378 9880"
     },
     {
         "itemType": "Milk",
         "district": "Colombo",
-        "areaServed": "Gampaha And Suburbs",
-        "vendor": "No Name",
-        "contactDetails": "077 742 1457"
-    },
-    {
-        "itemType": "Milk Powder",
-        "district": "Colombo",
-        "areaServed": "Himbutana",
-        "vendor": "Pelawatta Milk",
-        "contactDetails": "WhatsApp or SMS 071 021 5162"
-    },
-    {
-        "itemType": "Butter ",
-        "district": "Colombo",
-        "areaServed": "Hokandara",
-        "vendor": "Pelawatta Milk",
-        "contactDetails": "WhatsApp or SMS 071 021 5162"
-    },
-    {
-        "itemType": "Yoghurt",
-        "district": "Colombo",
-        "areaServed": "Homagama",
-        "vendor": "Pelawatta Milk",
-        "contactDetails": "WhatsApp or SMS 071 021 5162"
-    },
-    {
-        "itemType": "Milk Powder",
-        "district": "Colombo",
         "areaServed": "Kohuwela",
-        "vendor": "Pelawatta Milk",
-        "contactDetails": "WhatsApp or SMS 071 021 5162"
+        "vendor": "Kotmale Products",
+        "contactDetails": "WhatsApp 077 325 0867"
     },
     {
-        "itemType": "Butter ",
+        "itemType": "Milk / Yogurt",
         "district": "Colombo",
         "areaServed": "Kolonnawa",
-        "vendor": "Pelawatta Milk",
-        "contactDetails": "WhatsApp or SMS 071 021 5162"
+        "vendor": "Richlife",
+        "contactDetails": "077 254 9668 / 071 231 9572"
     },
     {
-        "itemType": "Yoghurt",
+        "itemType": "Milk / Yogurt",
         "district": "Colombo",
         "areaServed": "Koswatta",
-        "vendor": "Pelawatta Milk",
-        "contactDetails": "WhatsApp or SMS 071 021 5162"
+        "vendor": "Richlife",
+        "contactDetails": "077 254 9668 / 071 231 9572"
     },
     {
-        "itemType": "Milk Powder",
+        "itemType": "Milk / Yogurt",
         "district": "Colombo",
         "areaServed": "Kottawa",
-        "vendor": "Pelawatta Milk",
-        "contactDetails": "WhatsApp or SMS 071 021 5162"
+        "vendor": "Richlife",
+        "contactDetails": "077 378 9880"
     },
     {
-        "itemType": "Butter ",
+        "itemType": "Milk / Yogurt",
         "district": "Colombo",
         "areaServed": "Maharagama",
-        "vendor": "Pelawatta Milk",
-        "contactDetails": "WhatsApp or SMS 071 021 5162"
+        "vendor": "Richlife",
+        "contactDetails": "077 378 9880"
     },
     {
-        "itemType": "Yoghurt",
+        "itemType": "Milk / Yogurt",
         "district": "Colombo",
         "areaServed": "Malabe",
-        "vendor": "Pelawatta Milk",
-        "contactDetails": "WhatsApp or SMS 071 021 5162"
+        "vendor": "Richlife",
+        "contactDetails": "077 254 9668 / 071 231 9572"
     },
     {
         "itemType": "Milk / Yogurt",
         "district": "Colombo",
         "areaServed": "Matthegoda",
         "vendor": "Richlife",
-        "contactDetails": "077 254 9668 / 071 231 9572",
-        "comments": "Cash On Delivery"
+        "contactDetails": "077 378 9880"
     },
     {
-        "itemType": "Milk / Yogurt",
+        "itemType": "Milk",
         "district": "Colombo",
-        "areaServed": "Nawala",
-        "vendor": "Richlife",
-        "contactDetails": "077 378 9880",
-        "comments": "Cash On Delivery"
+        "areaServed": "Moratuwa",
+        "vendor": "Gentral Marketing",
+        "contactDetails": "077 742 1457",
+        "comments": "12lt/"
     },
     {
-        "itemType": "Milk / Yogurt",
+        "itemType": "Milk",
         "district": "Colombo",
-        "areaServed": "Nawala",
-        "vendor": "Richlife",
-        "contactDetails": "077 254 9668 / 071 231 9572",
-        "comments": "Cash On Delivery"
+        "areaServed": "Mt,Lavinia",
+        "vendor": "Gentral Marketing",
+        "contactDetails": "077 742 1457",
+        "comments": "12lt/"
     },
     {
-        "itemType": "Milk / Yogurt",
+        "itemType": "Milk",
         "district": "Colombo",
         "areaServed": "Nawala",
-        "vendor": "Richlife",
-        "contactDetails": "077 254 9668 / 071 231 9572",
-        "comments": "Cash On Delivery"
+        "vendor": "Kotmale Products",
+        "contactDetails": "WhatsApp 077 325 0867"
+    },
+    {
+        "itemType": "Milk",
+        "district": "Colombo",
+        "areaServed": "Nawala",
+        "vendor": "Sampath",
+        "contactDetails": "075 466 1909"
+    },
+    {
+        "itemType": "Yoghurt",
+        "district": "Colombo",
+        "areaServed": "Nawala",
+        "vendor": "Sampath",
+        "contactDetails": "075 466 1909"
     },
     {
         "itemType": "Milk / Yogurt",
         "district": "Colombo",
         "areaServed": "Nawala Road",
         "vendor": "Richlife",
-        "contactDetails": "077 254 9668 / 071 231 9572",
-        "comments": "Cash On Delivery"
+        "contactDetails": "077 378 9880"
+    },
+    {
+        "itemType": "Milk",
+        "district": "Colombo",
+        "areaServed": "Nugegoda",
+        "vendor": "Kotmale Products",
+        "contactDetails": "WhatsApp 077 325 0867"
     },
     {
         "itemType": "Milk / Yogurt",
         "district": "Colombo",
         "areaServed": "Nugegoda",
         "vendor": "Richlife",
-        "contactDetails": "077 378 9880",
-        "comments": "Cash On Delivery"
-    },
-    {
-        "itemType": "Milk / Yogurt",
-        "district": "Colombo",
-        "areaServed": "Nugegoda",
-        "vendor": "Richlife",
-        "contactDetails": "077 378 9880",
-        "comments": "Cash On Delivery"
+        "contactDetails": "077 378 9880"
     },
     {
         "itemType": "Milk / Yogurt",
         "district": "Colombo",
         "areaServed": "Pannipitiya",
         "vendor": "Richlife",
-        "contactDetails": "077 254 9668 / 071 231 9572",
-        "comments": "Cash On Delivery"
+        "contactDetails": "077 378 9880"
     },
     {
         "itemType": "Milk / Yogurt",
         "district": "Colombo",
         "areaServed": "Pelawatta",
         "vendor": "Richlife",
-        "contactDetails": "077 254 9668 / 071 231 9572",
-        "comments": "Cash On Delivery"
+        "contactDetails": "077 254 9668 / 071 231 9572"
     },
     {
-        "itemType": "Milk / Yogurt",
+        "itemType": "Milk",
         "district": "Colombo",
         "areaServed": "Ratmalana",
-        "vendor": "Richlife",
-        "contactDetails": "077 254 9668 / 071 231 9572",
-        "comments": "Cash On Delivery"
+        "vendor": "No Name",
+        "contactDetails": "077 742 1457"
     },
     {
-        "itemType": "Milk / Yogurt",
+        "itemType": "Milk",
         "district": "Colombo",
-        "areaServed": "Ratmalana/ Moratuwa Mt,Lavinia /Dehiwala",
-        "vendor": "Richlife",
-        "contactDetails": "077 378 9880",
-        "comments": "Cash On Delivery"
+        "areaServed": "Ratmalana",
+        "vendor": "Gentral Marketing",
+        "contactDetails": "077 742 1457",
+        "comments": "12lt/"
     },
     {
         "itemType": "Milk / Yogurt",
         "district": "Colombo",
         "areaServed": "Thalahena",
         "vendor": "Richlife",
-        "contactDetails": "077 378 9880",
-        "comments": "Cash On Delivery"
+        "contactDetails": "077 254 9668 / 071 231 9572"
     },
     {
         "itemType": "Milk / Yogurt",
         "district": "Colombo",
         "areaServed": "Thalawathugoda",
         "vendor": "Richlife",
-        "contactDetails": "077 254 9668 / 071 231 9572",
-        "comments": "Cash On Delivery"
-    },
-    {
-        "itemType": "Milk / Yogurt",
-        "district": "Colombo",
-        "areaServed": "Undefined",
-        "vendor": "Richlife",
-        "contactDetails": "077 378 9880",
-        "comments": "Cash On Delivery"
-    },
-    {
-        "itemType": "Milk / Yogurt",
-        "district": "Colombo",
-        "areaServed": "Undefined",
-        "vendor": "Richlife",
-        "contactDetails": "077 378 9880",
-        "comments": "Cash On Delivery"
-    },
-    {
-        "itemType": "Milk / Yogurt",
-        "district": "Colombo",
-        "areaServed": "Undefined",
-        "vendor": "Richlife",
-        "contactDetails": "077 378 9880",
-        "comments": "Cash On Delivery"
+        "contactDetails": "077 254 9668 / 071 231 9572"
     },
     {
         "itemType": "Milk / Yogurt",
         "district": "Colombo",
         "areaServed": "Vidyala Junc",
         "vendor": "Richlife",
-        "contactDetails": "077 378 9880",
-        "comments": "Cash On Delivery"
+        "contactDetails": "077 378 9880"
     },
     {
-        "itemType": "Milk / Yogurt",
-        "district": "Gampaha",
-        "areaServed": "Gampaha",
-        "vendor": "Richlife",
-        "contactDetails": "077 254 9668 / 071 231 9572",
-        "comments": "Cash On Delivery"
+        "itemType": "Yoghurt",
+        "district": "Colombo",
+        "vendor": "Sampath",
+        "contactDetails": "075 466 1909"
     },
     {
-        "itemType": "Milk / Yogurt",
+        "itemType": "Butter ",
         "district": "Gampaha",
         "areaServed": "Gampaha",
-        "vendor": "Richlife",
-        "contactDetails": "077 254 9668 / 071 231 9572",
-        "comments": "Cash On Delivery"
+        "vendor": "Pelawatta Milk",
+        "contactDetails": "WhatsApp or SMS 071 021 5162"
     },
     {
-        "itemType": "Milk / Yogurt",
+        "itemType": "Milk Powder",
         "district": "Gampaha",
         "areaServed": "Gampaha",
-        "vendor": "Richlife",
-        "contactDetails": "077 254 9668 / 071 231 9572",
-        "comments": "Cash On Delivery"
+        "vendor": "Pelawatta Milk",
+        "contactDetails": "WhatsApp or SMS 071 021 5162"
+    },
+    {
+        "itemType": "Yoghurt",
+        "district": "Gampaha",
+        "areaServed": "Gampaha",
+        "vendor": "Pelawatta Milk",
+        "contactDetails": "WhatsApp or SMS 071 021 5162"
+    },
+    {
+        "itemType": "Dairy & Other Products",
+        "district": "Gampaha",
+        "areaServed": "Gampaha",
+        "vendor": "Elephant House",
+        "contactDetails": "076 529 9452 / 077 395 6512 / 077 395 6508 / 077 395 6517"
     },
     {
         "itemType": "Milk / Yogurt",
         "district": "Gampaha",
         "areaServed": "Kelaniya",
         "vendor": "Richlife",
-        "contactDetails": "077 378 9880",
-        "comments": "Cash On Delivery"
+        "contactDetails": "077 254 9668 / 071 231 9572"
     },
     {
-        "itemType": "Milk",
+        "itemType": "Milk Powder",
         "district": "Kalutara",
         "areaServed": "Horana And Suburbs",
-        "vendor": "Sampath",
-        "contactDetails": "075 466 1909"
+        "vendor": "Nipuna Nirmal",
+        "contactDetails": "071 101 4300"
+    },
+    {
+        "itemType": "Butter ",
+        "district": "Kalutara",
+        "areaServed": "Kalutara",
+        "vendor": "Pelawatta Milk",
+        "contactDetails": "WhatsApp or SMS 071 021 5162"
+    },
+    {
+        "itemType": "Milk Powder",
+        "district": "Kalutara",
+        "areaServed": "Kalutara",
+        "vendor": "Pelawatta Milk",
+        "contactDetails": "WhatsApp or SMS 071 021 5162"
     },
     {
         "itemType": "Yoghurt",
         "district": "Kalutara",
-        "areaServed": "Kalutara District",
-        "vendor": "Sampath",
-        "contactDetails": "075 466 1909"
-    },
-    {
-        "itemType": "Milk",
-        "district": "Kalutara",
-        "areaServed": "Kalutara District",
-        "vendor": "Sampath",
-        "contactDetails": "075 466 1909"
-    },
-    {
-        "itemType": "Yoghurt",
-        "district": "Kalutara",
-        "areaServed": "Kalutara District",
-        "vendor": "Sampath",
-        "contactDetails": "075 466 1909"
+        "areaServed": "Kalutara",
+        "vendor": "Pelawatta Milk",
+        "contactDetails": "WhatsApp or SMS 071 021 5162"
     }
 ]

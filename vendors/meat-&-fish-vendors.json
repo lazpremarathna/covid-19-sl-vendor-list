@@ -2,65 +2,36 @@
     {
         "itemType": "Eggs",
         "district": "Colombo",
-        "areaServed": "Colombo & Suburbs",
-        "vendor": "Anura",
-        "contactDetails": "072 340 6154"
-    },
-    {
-        "itemType": "Sprats",
-        "district": "Colombo",
-        "areaServed": "Colombo & Suburbs",
-        "vendor": "Chamara",
-        "contactDetails": "076 971 8839"
-    },
-    {
-        "itemType": "Sprats",
-        "district": "Colombo",
-        "areaServed": "Colombo & Suburbs",
-        "vendor": "Chamara",
-        "contactDetails": "076 971 8839"
+        "areaServed": "Colombo",
+        "vendor": "Rishard",
+        "contactDetails": "077 762 3124"
     },
     {
         "itemType": "Fish",
         "district": "Colombo",
-        "areaServed": "Colombo & Suburbs",
-        "vendor": "Eco House",
-        "contactDetails": "077 316 8996"
-    },
-    {
-        "itemType": "Fish",
-        "district": "Colombo",
-        "areaServed": "Colombo, Nugegoda ",
-        "vendor": "Fine Fish",
-        "contactDetails": "077 817 7783"
-    },
-    {
-        "itemType": "Fish",
-        "district": "Colombo",
-        "areaServed": "Colombo2-6",
-        "vendor": "Fine Fish",
-        "contactDetails": "077 817 7783"
+        "areaServed": "Colombo",
+        "vendor": "Sea Catch",
+        "contactDetails": "077 738 0101"
     },
     {
         "itemType": "Eggs",
         "district": "Colombo",
-        "areaServed": "Dehiwela",
-        "vendor": "Five Star Bakers",
-        "contactDetails": "011 529 9714 / 011 529 9711 / 011 273 3967",
-        "comments": "Orders Taken 9-6"
+        "areaServed": "Colombo",
+        "vendor": "Serendib Free Range Farm",
+        "contactDetails": "077 762 3124 / 075 970 3503"
     },
     {
-        "itemType": "Eggs",
+        "itemType": "Meat Products",
         "district": "Colombo",
-        "areaServed": "Dehiwela",
-        "vendor": "Five Star Bakers",
-        "contactDetails": "011 5883 251 / 011 588 3253 / 011 528 8454 / 011 529 9713",
-        "comments": "Orders Taken 9-6"
+        "areaServed": "Colombo (Must Proceed Order Only Through Whatapp)",
+        "vendor": "Maxies",
+        "contactDetails": "704794795- SMS whatsapp - 0705555555",
+        "comments": 1500
     },
     {
-        "itemType": "Chicken",
+        "itemType": "Chicken / Eggs",
         "district": "Colombo",
-        "areaServed": "Dehiwela",
+        "areaServed": "Colombo & Suburbs",
         "vendor": "Greys Field",
         "contactDetails": "076 012 5105",
         "comments": "Mixed Reviews"
@@ -68,181 +39,271 @@
     {
         "itemType": "Eggs",
         "district": "Colombo",
-        "areaServed": "Dehiwela",
-        "vendor": "Greys Field",
-        "contactDetails": "076 012 5105",
-        "comments": "Mixed Reviews"
-    },
-    {
-        "itemType": "Meat",
-        "district": "Colombo",
-        "areaServed": "Etul Kotte",
-        "vendor": "Greys Field",
-        "contactDetails": "076 012 5105"
-    },
-    {
-        "itemType": "Chicken",
-        "district": "Colombo",
-        "areaServed": "Kaduwela, Kotte & Suburbs",
-        "vendor": "Home Bargains",
-        "contactDetails": "076 355 2927"
-    },
-    {
-        "itemType": "Eggs",
-        "district": "Colombo",
-        "areaServed": "Kalubowila",
-        "vendor": "Home Bargains",
-        "contactDetails": "076 355 2927"
-    },
-    {
-        "itemType": "Dry Fish",
-        "district": "Colombo",
-        "areaServed": "Malabe",
-        "vendor": "Jayalath Sunil",
-        "contactDetails": "034 226 4457"
-    },
-    {
-        "itemType": "Chicken & Fish",
-        "district": "Colombo",
-        "areaServed": "Mirihana",
-        "vendor": "JMW Farm House",
-        "contactDetails": "0711 230 727"
-    },
-    {
-        "itemType": "Chicken",
-        "district": "Colombo",
-        "areaServed": "Mount Lavinia",
-        "vendor": "Lahiru",
-        "contactDetails": "075 940 0202"
-    },
-    {
-        "itemType": "Eggs",
-        "district": "Colombo",
-        "areaServed": "Mount Lavinia",
-        "vendor": "Lasitha Nuwan",
-        "contactDetails": "077 718 1692"
-    },
-    {
-        "itemType": "Fish",
-        "district": "Colombo",
-        "areaServed": "Mount Lavinia",
-        "vendor": "Malu Pola",
-        "contactDetails": "076 321 2150"
-    },
-    {
-        "itemType": "Meat",
-        "district": "Colombo",
-        "areaServed": "Nawala",
-        "vendor": "Maxies",
-        "contactDetails": "070 479 4795- SMS / WhatsApp - 070 555 5555",
-        "comments": "Must Proceed Order Only Through Whatapp"
-    },
-    {
-        "itemType": "Meat",
-        "district": "Colombo",
-        "areaServed": "Nawala",
-        "vendor": "Maxies",
-        "contactDetails": "070 479 4795- SMS / WhatsApp - 070 555 5555",
-        "comments": "Must Proceed Order Only Through Whatapp"
-    },
-    {
-        "itemType": "Fish",
-        "district": "Colombo",
-        "areaServed": "Nawala",
-        "vendor": "MTA Karunaratne",
-        "contactDetails": "076 046 0795"
-    },
-    {
-        "itemType": "Chicken",
-        "district": "Colombo",
-        "areaServed": "Nugegoda",
-        "vendor": "No Name",
-        "contactDetails": "075 627 9555"
-    },
-    {
-        "itemType": "Chicken",
-        "district": "Colombo",
-        "areaServed": "Pita Kotte",
-        "vendor": "No Name",
-        "contactDetails": "077 381 3527 / 077 851 1635"
-    },
-    {
-        "itemType": "Eggs",
-        "district": "Colombo",
-        "areaServed": "Pita Kotte",
+        "areaServed": "Colombo & Suburbs",
         "vendor": "No Name",
         "contactDetails": "WhatsApp 077 828 8889"
     },
     {
+        "itemType": "Fish",
+        "district": "Colombo",
+        "areaServed": "Colombo 2-6",
+        "vendor": "Fine Fish",
+        "contactDetails": "077 817 7783"
+    },
+    {
+        "itemType": "Meat Products",
+        "district": "Colombo",
+        "areaServed": "Dankotuwa (Must Proceed Order Only Through Whatapp)",
+        "vendor": "Maxies",
+        "contactDetails": "704794795- SMS whatsapp - 0705555555",
+        "comments": 1500
+    },
+    {
         "itemType": "Eggs",
         "district": "Colombo",
-        "areaServed": "Pita Kotte",
+        "areaServed": "Dehiwela",
         "vendor": "No Name",
         "contactDetails": "077 342 9388"
     },
     {
         "itemType": "Eggs",
         "district": "Colombo",
-        "areaServed": "Pita Kotte",
+        "areaServed": "Dehiwela",
         "vendor": "No Name",
         "contactDetails": "076 277 4744"
+    },
+    {
+        "itemType": "Eggs",
+        "district": "Colombo",
+        "areaServed": "Dehiwela",
+        "vendor": "No Name",
+        "contactDetails": "076 277 4744"
+    },
+    {
+        "itemType": "Eggs",
+        "district": "Colombo",
+        "areaServed": "Dehiwela",
+        "vendor": "No Name",
+        "contactDetails": "077 342 9388"
+    },
+    {
+        "itemType": "Eggs",
+        "district": "Colombo",
+        "areaServed": "Dehiwela",
+        "vendor": "No Name",
+        "contactDetails": "076 277 4744"
+    },
+    {
+        "itemType": "Beef / Chicken",
+        "district": "Colombo",
+        "areaServed": "Dehiwela",
+        "vendor": "Royal Farm",
+        "contactDetails": "075 020 7733"
+    },
+    {
+        "itemType": "Eggs",
+        "district": "Colombo",
+        "areaServed": "Etul Kotte",
+        "vendor": "No Name",
+        "contactDetails": "076 277 4744"
+    },
+    {
+        "itemType": "Eggs",
+        "district": "Colombo",
+        "areaServed": "Etul Kotte",
+        "vendor": "No Name",
+        "contactDetails": "076 277 4744"
+    },
+    {
+        "itemType": "Fish",
+        "district": "Colombo",
+        "areaServed": "Kaduwela, Kotte & Suburbs",
+        "vendor": "Eco House",
+        "contactDetails": "077 316 8996",
+        "comments": 1000
+    },
+    {
+        "itemType": "Eggs",
+        "district": "Colombo",
+        "areaServed": "Kalubowila",
+        "vendor": "No Name",
+        "contactDetails": "WhatsApp 076 277 4744",
+        "comments": "Once a week delivery"
+    },
+    {
+        "itemType": "Meat Products",
+        "district": "Colombo",
+        "areaServed": "Katuneriya (Must Proceed Order Only Through Whatapp)",
+        "vendor": "Maxies",
+        "contactDetails": "704794795- SMS whatsapp - 0705555555",
+        "comments": 1500
+    },
+    {
+        "itemType": "Meat Products",
+        "district": "Colombo",
+        "areaServed": "Kochikade (Must Proceed Order Only Through Whatapp)",
+        "vendor": "Maxies",
+        "contactDetails": "704794795- SMS whatsapp - 0705555555",
+        "comments": 1500
+    },
+    {
+        "itemType": "Eggs",
+        "district": "Colombo",
+        "areaServed": "Malabe",
+        "vendor": "Anura",
+        "contactDetails": "072 340 6154"
+    },
+    {
+        "itemType": "Meat Products",
+        "district": "Colombo",
+        "areaServed": "Marawila (Must Proceed Order Only Through Whatapp)",
+        "vendor": "Maxies",
+        "contactDetails": "704794795- SMS whatsapp - 0705555555",
+        "comments": 1500
+    },
+    {
+        "itemType": "Dry Fish (Karawala)",
+        "district": "Colombo",
+        "areaServed": "Moratuwa",
+        "vendor": "S N R Karawala",
+        "contactDetails": "077 961 4645"
+    },
+    {
+        "itemType": "Eggs",
+        "district": "Colombo",
+        "areaServed": "Mount Lavinia",
+        "vendor": "Five Star Bakers",
+        "contactDetails": "011 529 9714 / 011 529 9711 / 011 273 3967",
+        "comments": "Orders taken 9-6"
+    },
+    {
+        "itemType": "Chicken",
+        "district": "Colombo",
+        "areaServed": "Mount Lavinia",
+        "vendor": "No Name",
+        "contactDetails": "075 627 9555"
+    },
+    {
+        "itemType": "Beef / Chicken",
+        "district": "Colombo",
+        "areaServed": "Mount Lavinia",
+        "vendor": "Royal Farm",
+        "contactDetails": "075 020 7733"
+    },
+    {
+        "itemType": "Chicken / Eggs",
+        "district": "Colombo",
+        "areaServed": "Nawala",
+        "vendor": "Home Bargains",
+        "contactDetails": "076 355 2927"
+    },
+    {
+        "itemType": "Eggs",
+        "district": "Colombo",
+        "areaServed": "Nawala",
+        "vendor": "No Name",
+        "contactDetails": "076 277 4744"
+    },
+    {
+        "itemType": "Eggs",
+        "district": "Colombo",
+        "areaServed": "Nawala",
+        "vendor": "No Name",
+        "contactDetails": "076 277 4744"
+    },
+    {
+        "itemType": "Meat Products",
+        "district": "Colombo",
+        "areaServed": "Nugegoda (Must Proceed Order Only Through Whatapp)",
+        "vendor": "Maxies",
+        "contactDetails": "704794795- SMS whatsapp - 0705555555",
+        "comments": 1500
+    },
+    {
+        "itemType": "Fish / Chicken",
+        "district": "Colombo",
+        "areaServed": "Piliyandala And Suburbs",
+        "vendor": "Delivery Shop",
+        "contactDetails": "071 368 7307"
+    },
+    {
+        "itemType": "Fish / Chicken",
+        "district": "Colombo",
+        "areaServed": "Piliyandala And Suburbs",
+        "vendor": "Fish Shop",
+        "contactDetails": "070 143 9741"
+    },
+    {
+        "itemType": "Eggs / Fish / Chicken",
+        "district": "Colombo",
+        "areaServed": "Piliyandala And Suburbs",
+        "vendor": "Miriswatte Farm Shop",
+        "contactDetails": "077 667 9510"
+    },
+    {
+        "itemType": "Chicken",
+        "district": "Colombo",
+        "areaServed": "Pita Kotte",
+        "vendor": "Lahiru",
+        "contactDetails": "075 940 0202"
+    },
+    {
+        "itemType": "Chicken / Eggs",
+        "district": "Colombo",
+        "areaServed": "Pita Kotte",
+        "vendor": "No Name",
+        "contactDetails": "077 381 3527 / 077 851 1635"
+    },
+    {
+        "itemType": "Eggs",
+        "district": "Colombo",
+        "areaServed": "Pita Kotte",
+        "vendor": "No Name",
+        "contactDetails": "077623 3482"
     },
     {
         "itemType": "Eggs",
         "district": "Colombo",
         "areaServed": "Ratmalana",
-        "vendor": "No Name",
-        "contactDetails": "076 277 4744"
+        "vendor": "Five Star Bakers",
+        "contactDetails": "011 588 3251 / 011 588 3253 / 011 528 8454 / 011 529 9713",
+        "comments": "Orders taken 9-6"
     },
     {
-        "itemType": "Eggs",
+        "itemType": "Fish",
         "district": "Colombo",
         "areaServed": "Undefined",
-        "vendor": "No Name",
-        "contactDetails": "WhatsApp 076 277 4744",
-        "comments": "Once A Week Delivery"
+        "vendor": "Malu Pola",
+        "contactDetails": "76 321 2150"
     },
     {
-        "itemType": "Eggs",
+        "itemType": "Fish",
         "district": "Colombo",
         "areaServed": "Undefined",
-        "vendor": "No Name",
-        "contactDetails": "076 277 4744"
+        "vendor": "Zia Fresh Fish",
+        "contactDetails": "077 546 6650"
     },
     {
-        "itemType": "Eggs",
+        "itemType": "Beef / Chicken",
         "district": "Colombo",
         "areaServed": "Wellawatta",
-        "vendor": "No Name",
-        "contactDetails": "077 623 3482"
+        "vendor": "Royal Farm",
+        "contactDetails": "075 020 7733"
     },
     {
-        "itemType": "Eggs",
+        "itemType": "Meat Products",
         "district": "Colombo",
-        "areaServed": "Undefined",
-        "vendor": "No Name",
-        "contactDetails": "077 381 3527 / 077 851 1635"
+        "areaServed": "Wennapuwa (Must Proceed Order Only Through Whatapp)",
+        "vendor": "Maxies",
+        "contactDetails": "704794795- SMS whatsapp - 0705555555",
+        "comments": 1500
     },
     {
-        "itemType": "Eggs & Dry Fish",
-        "district": "Colombo",
-        "areaServed": "Undefined",
-        "vendor": "Prasanna Jayalath",
-        "contactDetails": "071 237 4213"
-    },
-    {
-        "itemType": "Eggs",
-        "district": "Colombo",
-        "areaServed": "Undefined",
-        "vendor": "R. Niroshan",
-        "contactDetails": "076 775 2021"
-    },
-    {
-        "itemType": "Eggs",
+        "itemType": "Chicken",
         "district": "Gampaha",
         "areaServed": "Bopitiya",
-        "vendor": "Rishard",
-        "contactDetails": "077 762 3124"
+        "vendor": "Roxy Chicken",
+        "contactDetails": "077 729 3906"
     },
     {
         "itemType": "Chicken",
@@ -256,77 +317,55 @@
         "district": "Gampaha",
         "areaServed": "Kandana",
         "vendor": "Roxy Chicken",
-        "contactDetails": "075 020 7733"
+        "contactDetails": "077 729 3906"
     },
     {
         "itemType": "Chicken",
         "district": "Gampaha",
         "areaServed": "Wattala",
         "vendor": "Roxy Chicken",
-        "contactDetails": "075 020 7733"
-    },
-    {
-        "itemType": "Chicken",
-        "district": "Gampaha",
-        "areaServed": "Wennapuwa, Katuneriya, Dankotuwa, Marawila & Kochikade",
-        "vendor": "Roxy Chicken",
         "contactDetails": "077 729 3906"
     },
     {
-        "itemType": "Beef/Chicken",
+        "itemType": "Eggs / Dry Fish",
         "district": "Kalutara",
         "areaServed": "Batuwita, Pokunuwita, Horana And Suburbs",
-        "vendor": "Royal Farm",
-        "contactDetails": "075 020 7733"
+        "vendor": "Prasanna Jayalath",
+        "contactDetails": "071 237 4213"
     },
     {
-        "itemType": "Beef/Chicken",
+        "itemType": "Dry Fish",
         "district": "Kalutara",
         "areaServed": "Batuwita, Pokunuwita, Horana And Suburbs",
-        "vendor": "Royal Farm",
-        "contactDetails": "075 020 7733"
+        "vendor": "Sanjaya Kumara",
+        "contactDetails": "071 147 1107"
     },
     {
-        "itemType": "Beef/Chicken",
+        "itemType": "Fish / Chicken",
         "district": "Kalutara",
         "areaServed": "Gelanigama, Bandargama",
-        "vendor": "Royal Farm",
-        "contactDetails": "075 020 7733"
+        "vendor": "JMW Farm House",
+        "contactDetails": "071 123 0727"
     },
     {
         "itemType": "Dry Fish",
         "district": "Kalutara",
         "areaServed": "Horana And Suburbs",
-        "vendor": "Sanjaya Kumara",
-        "contactDetails": "071 147 1107"
-    },
-    {
-        "itemType": "Fish",
-        "district": "Kalutara",
-        "areaServed": "Horana And Suburbs",
-        "vendor": "Sea Catch",
-        "contactDetails": "077 738 0101",
-        "comments": "No Delivery Till Next Week"
+        "vendor": "Jayalath Sunil",
+        "contactDetails": "034 226 4457"
     },
     {
         "itemType": "Eggs",
         "district": "Kalutara",
-        "areaServed": "Horana And Suburbs",
-        "vendor": "Serendib Free Range Farm",
-        "contactDetails": "077 762 3124 / 075 970 3503"
-    },
-    {
-        "itemType": "Meat",
-        "district": "Kalutara",
         "areaServed": "North, South Uduwa, Maha Uduwa, Kuda Uduwa",
-        "vendor": "Softlab",
-        "contactDetails": "076 331 3333 / 076 011 2555"
+        "vendor": "Lasitha Nuwan",
+        "contactDetails": "077 718 1692"
     },
     {
-        "itemType": "Fish",
+        "itemType": "Meat Products",
         "district": "Kandy",
         "areaServed": "Kandy And Suburbs",
-        "vendor": "Zia Fresh Fish",
-        "contactDetails": "077 546 6650"
+        "vendor": "Softlab",
+        "contactDetails": "076 331 3333 / 076 011 2555"
     }
 ]

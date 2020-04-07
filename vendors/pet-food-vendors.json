@@ -1,1 +1,37 @@
-﻿
+﻿[
+    {
+        "itemType": "Petfood",
+        "district": "Colombo",
+        "areaServed": "Colombo",
+        "vendor": "www.allforpets.lk",
+        "contactDetails": "www.allforpets.lk"
+    },
+    {
+        "itemType": "Petfood",
+        "district": "Colombo",
+        "areaServed": "Most Areas",
+        "vendor": "Pickme - CANIS",
+        "contactDetails": "Use Pick Me Flash And Select Canis"
+    },
+    {
+        "itemType": "Petfood",
+        "district": "Colombo",
+        "areaServed": "Nawala",
+        "vendor": "Home Bargains",
+        "contactDetails": "076 355 2927"
+    },
+    {
+        "itemType": "Petfood",
+        "district": "Colombo",
+        "areaServed": "Pelawatta",
+        "vendor": "Seepet",
+        "contactDetails": "071 668 6238"
+    },
+    {
+        "itemType": "Pet Food",
+        "district": "Kandy",
+        "areaServed": "Kandy",
+        "vendor": "Gamana Taxi",
+        "contactDetails": "076 146 8910 / 081 220 3202"
+    }
+]

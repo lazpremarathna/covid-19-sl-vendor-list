@@ -1,479 +1,511 @@
 ﻿[
     {
-        "itemType": "Vegetables",
+        "itemType": "Fruits & Vegetables",
         "district": "Colombo",
         "areaServed": "Athurugiriya",
-        "vendor": "Afgo International",
-        "contactDetails": "071 299 3897 / 077 227 9047- WhatsApp or Call"
+        "vendor": "Ajantha",
+        "contactDetails": "075 500 1505 or WhatsApp 071 582 4888"
+    },
+    {
+        "itemType": "Fruits & Vegetables",
+        "district": "Colombo",
+        "areaServed": "Athurugiriya",
+        "vendor": "DZs Fresh Box",
+        "contactDetails": "WhatsApp 077 600 1111"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Attidiya",
-        "vendor": "Afgo International",
-        "contactDetails": "071 299 3897 / 077 227 9047- WhatsApp or Call"
+        "vendor": "Fresh Box",
+        "contactDetails": "077 333 1980 / 077 878 6288"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Battaramulla",
-        "vendor": "Afgo International",
-        "contactDetails": "071 299 3897 / 077 227 9047- WhatsApp or Call"
+        "vendor": "www.lkcart.Com",
+        "contactDetails": "Order online"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Battaramulla",
-        "vendor": "Afgo International",
-        "contactDetails": "071 299 3897 / 077 227 9047- WhatsApp or Call"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Colombo",
-        "areaServed": "Battarmulla",
-        "vendor": "Afgo International",
-        "contactDetails": "071 299 3897 / 077 227 9047- WhatsApp or Call"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Colombo",
-        "areaServed": "Battarmulla",
-        "vendor": "Afgo International",
-        "contactDetails": "071 299 3897 / 077 227 9047- WhatsApp or Call"
+        "vendor": "Shiromi Gajanayake",
+        "contactDetails": "071 366 5842 / 077 366 5842 / 071 803 4035"
     },
     {
         "itemType": "Fruits & Vegetables",
         "district": "Colombo",
+        "areaServed": "Battarmulla",
+        "vendor": "Granada",
+        "contactDetails": "sales@granadasuppliers.com"
+    },
+    {
+        "itemType": "Strawberries",
+        "district": "Colombo",
+        "areaServed": "Battarmulla",
+        "vendor": "Jagro",
+        "contactDetails": "WhatsApp 0770386237 / 0773374498"
+    },
+    {
+        "itemType": "Vegetables",
+        "district": "Colombo",
         "areaServed": "Battarmulla & Suburbs",
-        "vendor": "Ajantha",
-        "contactDetails": "075-500 1505 or WhatsApp  071-582 4888"
+        "vendor": "No Name",
+        "contactDetails": "WhatsApp or SMS 071 018 3592"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Boralesgamuwa",
-        "vendor": "Anura",
-        "contactDetails": "072-340 6154"
+        "vendor": "Fresh Box",
+        "contactDetails": "077 333 1980 / 077 878 6288"
     },
     {
-        "itemType": "Vegetables",
+        "itemType": "Fruits & Vegetables",
         "district": "Colombo",
         "areaServed": "Boralesgamuwa",
-        "vendor": "Ark Agronics Pvt Ltd",
-        "contactDetails": "011-239 2997 / 076-527 2129"
+        "vendor": "Sumith Weerasinghe",
+        "contactDetails": "011 215 0957 / 070 571 1172 / 071 301 3596"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Borella",
-        "vendor": "Aswenna Organic",
-        "contactDetails": "077-777 2964",
-        "comments": "Only Available On 1st And 2nd April"
+        "vendor": "Shiromi Gajanayake",
+        "contactDetails": "071 366 5842 / 077 366 5842 / 071 803 4035"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Colombo",
-        "vendor": "Aswenna Organic",
-        "contactDetails": "077-777 2964",
-        "comments": "Only Available On 1st And 2nd April"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Colombo",
-        "areaServed": "Colombo & Suburbs",
-        "vendor": "Aswenna Organic",
-        "contactDetails": "077-777 2964",
-        "comments": "Only Available On 1st And 2nd April"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Colombo",
-        "areaServed": "Colombo & Suburbs",
-        "vendor": "Aswenna Organic",
-        "contactDetails": "077-777 2964",
-        "comments": "Only Available On 1st And 2nd April"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Colombo",
-        "areaServed": "Colombo & Suburbs",
-        "vendor": "Aswenna Organic",
-        "contactDetails": "077-777 2964",
-        "comments": "Only Available On 1st And 2nd April"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Colombo",
-        "areaServed": "Colombo 3",
-        "vendor": "Aswenna Organic",
-        "contactDetails": "077-777 2964",
-        "comments": "Only Available On 1st And 2nd April"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Colombo",
-        "areaServed": "Colombo 5",
-        "vendor": "Chamara",
-        "contactDetails": "076-971 8839"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Colombo",
-        "areaServed": "Colombo 5",
-        "vendor": "Chamara",
-        "contactDetails": "076 971 8839"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Colombo",
-        "areaServed": "Colombo 7",
-        "vendor": "Co-Op",
-        "contactDetails": "077 396 5867 / 077 720 6493 / 077 194 5945"
+        "vendor": "No Name",
+        "contactDetails": "076 300 4260"
     },
     {
         "itemType": "Fruits & Vegetables",
         "district": "Colombo",
-        "areaServed": "Colombo City",
+        "areaServed": "Colombo & Suburbs",
         "vendor": "DZs Fresh Box",
-        "contactDetails": "WhatsApp 077-600 1111"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Colombo",
-        "areaServed": "Dehiwala",
-        "vendor": "Five Star Bakers",
-        "contactDetails": "011 529 9714 / 011 529 9711 / 011 273 3967",
-        "comments": "Orders Taken 9-6"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Colombo",
-        "areaServed": "Dehiwela",
-        "vendor": "Five Star Bakers",
-        "contactDetails": "011 588 3251 / 011 588 3253 / 011 528 8454 / 011 529 9713",
-        "comments": "Orders Taken 9-6"
-    },
-    {
-        "itemType": "Potatoes",
-        "district": "Colombo",
-        "areaServed": "Dehiwela",
-        "vendor": "Five Star Bakers",
-        "contactDetails": "071-366 5842 / 077-366 5842 / 071-803 4035",
-        "comments": "Orders Taken 9-6"
-    },
-    {
-        "itemType": "Potatoes",
-        "district": "Colombo",
-        "areaServed": "Dehiwela",
-        "vendor": "Five Star Bakers",
-        "contactDetails": "011 588 3251 / 011 588 3253 / 011 528 8454 / 011 529 9713",
-        "comments": "Orders Taken 9-6"
+        "contactDetails": "WhatsApp 077 600 1111"
     },
     {
         "itemType": "Onions",
+        "district": "Colombo",
+        "areaServed": "Colombo & Suburbs",
+        "vendor": "No Name",
+        "contactDetails": "WhatsApp 077 828 8889"
+    },
+    {
+        "itemType": "Potatoes",
+        "district": "Colombo",
+        "areaServed": "Colombo & Suburbs",
+        "vendor": "No Name",
+        "contactDetails": "WhatsApp 077 828 8889"
+    },
+    {
+        "itemType": "Fruits & Vegetables",
+        "district": "Colombo",
+        "areaServed": "Colombo 3",
+        "vendor": "Granada",
+        "contactDetails": "sales@granadasuppliers.com"
+    },
+    {
+        "itemType": "Fruits & Vegetables",
+        "district": "Colombo",
+        "areaServed": "Colombo 5",
+        "vendor": "Granada",
+        "contactDetails": "sales@granadasuppliers.com"
+    },
+    {
+        "itemType": "Vegetables",
+        "district": "Colombo",
+        "areaServed": "Colombo 5",
+        "vendor": "No Name",
+        "contactDetails": "WhatsApp or SMS 071 687 7065"
+    },
+    {
+        "itemType": "Fruits & Vegetables",
+        "district": "Colombo",
+        "areaServed": "Colombo 7",
+        "vendor": "Granada",
+        "contactDetails": "sales@granadasuppliers.com"
+    },
+    {
+        "itemType": "Vegetables",
+        "district": "Colombo",
+        "areaServed": "Colombo And Suburbs",
+        "vendor": "Natural Fresh",
+        "contactDetails": "076 732 7070"
+    },
+    {
+        "itemType": "Strawberries",
+        "district": "Colombo",
+        "areaServed": "Colombo City",
+        "vendor": "Jagro",
+        "contactDetails": "WhatsApp 0770386237 / 0773374498"
+    },
+    {
+        "itemType": "Vegetables",
+        "district": "Colombo",
+        "areaServed": "Dehiwela",
+        "vendor": "Fresh Box",
+        "contactDetails": "077 333 1980 / 077 878 6288"
+    },
+    {
+        "itemType": "Strawberries",
+        "district": "Colombo",
+        "areaServed": "Dehiwela",
+        "vendor": "Jagro",
+        "contactDetails": "WhatsApp 0770386237 / 0773374498"
+    },
+    {
+        "itemType": "Vegetables",
+        "district": "Colombo",
+        "areaServed": "Dehiwela",
+        "vendor": "www.www.lkcart.Com",
+        "contactDetails": "Order online"
+    },
+    {
+        "itemType": "Fruits & Vegetables",
         "district": "Colombo",
         "areaServed": "Embuldeniya",
-        "vendor": "Five Star Bakers",
-        "contactDetails": "011 529 9714 / 011 529 9711 / 011 273 3967",
-        "comments": "Orders Taken 9-6"
+        "vendor": "Janaka",
+        "contactDetails": "076 781 7676"
     },
     {
-        "itemType": "Onions",
+        "itemType": "Fruits",
         "district": "Colombo",
-        "areaServed": "Embuldeniya, Kotte, Nugegoda",
-        "vendor": "Five Star Bakers",
-        "contactDetails": "011 588 3251 / 011 588 3253 / 011 528 8454 / 011 529 9713",
-        "comments": "Orders Taken 9-6"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Colombo",
-        "areaServed": "Hokandara",
-        "vendor": "Fresh Box",
-        "contactDetails": "077-333 1980 / 077-878 6288"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Colombo",
-        "areaServed": "Kaduwela",
-        "vendor": "Fresh Box",
-        "contactDetails": "077-333 1980 / 077-878 6288"
+        "areaServed": "Embuldeniya",
+        "vendor": "Ruwanpura Fruits",
+        "contactDetails": "011 735 0450"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Kalubowila",
         "vendor": "Fresh Box",
-        "contactDetails": "077-333 1980 / 077-878 6288"
+        "contactDetails": "077 333 1980 / 077 878 6288"
+    },
+    {
+        "itemType": "Vegetables",
+        "district": "Colombo",
+        "areaServed": "Kandana",
+        "vendor": "No Name",
+        "contactDetails": "077 942 8695"
+    },
+    {
+        "itemType": "Fruits",
+        "district": "Colombo",
+        "areaServed": "Katubadda",
+        "vendor": "Kumara Fruit Shop",
+        "contactDetails": "077 131 3192"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Kawdana",
         "vendor": "Fresh Box",
-        "contactDetails": "077-333 1980 / 077-878 6288"
+        "contactDetails": "077 333 1980 / 077 878 6288"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Kirulopane",
         "vendor": "Fresh Box",
-        "contactDetails": "077-333 1980 / 077-878 6288"
+        "contactDetails": "077 333 1980 / 077 878 6288"
+    },
+    {
+        "itemType": "Vegetables",
+        "district": "Colombo",
+        "areaServed": "Kohuwela",
+        "vendor": "Aswenna Organic",
+        "contactDetails": "077 777 2964",
+        "comments": "Only available on 1st and 2nd April"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Kohuwela",
         "vendor": "Fresh Box",
-        "contactDetails": "077-333 1980 / 077-878 6288"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Colombo",
-        "areaServed": "Kohuwela",
-        "vendor": "Fresh Box",
-        "contactDetails": "077-333 1980 / 077-878 6288"
+        "contactDetails": "077 333 1980 / 077 878 6288"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Kottawa",
-        "vendor": "Fresh Box",
-        "contactDetails": "077-333 1980 / 077-878 6288"
+        "vendor": "Aswenna Organic",
+        "contactDetails": "077 777 2964",
+        "comments": "Only available on 1st and 2nd April"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Kottawa",
-        "vendor": "Fresh Box",
-        "contactDetails": "077-333 1980 / 077-878 6288"
+        "vendor": "www.www.lkcart.Com",
+        "contactDetails": "Order online"
+    },
+    {
+        "itemType": "Fruits & Vegetables",
+        "district": "Colombo",
+        "areaServed": "Kotte",
+        "vendor": "Janaka",
+        "contactDetails": "076 781 7676"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Kotte",
-        "vendor": "Fresh Box",
-        "contactDetails": "077-333 1980 / 077-878 6288"
+        "vendor": "No Name",
+        "contactDetails": "Pre-orders only 075 456 9518‬"
     },
     {
-        "itemType": "Vegetables",
+        "itemType": "Fruits",
         "district": "Colombo",
         "areaServed": "Kotte",
-        "vendor": "Fresh Box",
-        "contactDetails": "077-333 1980 / 077-878 6288"
+        "vendor": "Ruwanpura Fruits",
+        "contactDetails": "011 735 0450"
+    },
+    {
+        "itemType": "Fruits",
+        "district": "Colombo",
+        "areaServed": "Lakshapathiya",
+        "vendor": "Kumara Fruit Shop",
+        "contactDetails": "077 131 3192"
+    },
+    {
+        "itemType": "Banana & Vegetables",
+        "district": "Colombo",
+        "areaServed": "Lunawa, Agulana, Station Road Area",
+        "vendor": "I S Coconut",
+        "contactDetails": "077 869 8347 / 072 200 9960"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Maharagama",
-        "vendor": "Fresh Box",
-        "contactDetails": "077-333 1980 / 077-878 6288"
+        "vendor": "Aswenna Organic",
+        "contactDetails": "077 777 2964",
+        "comments": "Only available on 1st and 2nd April"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Maharagama",
-        "vendor": "Fresh Box",
-        "contactDetails": "077-333 1980 / 077-878 6288"
+        "vendor": "Shiromi Gajanayake",
+        "contactDetails": "071 366 5842 / 077 366 5842 / 071 803 4035"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Maharagama",
-        "vendor": "Fresh Elawalu",
-        "contactDetails": "075 642 0760 / Or look for them on FB"
+        "vendor": "www.www.lkcart.Com",
+        "contactDetails": "Order online"
     },
     {
-        "itemType": "Fruits & Vegetables",
-        "district": "Colombo",
-        "areaServed": "Maharagama",
-        "vendor": "Granada",
-        "contactDetails": "sales@granadasuppliers.com"
-    },
-    {
-        "itemType": "Fruits & Vegetables",
+        "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Malabe",
-        "vendor": "Granada",
-        "contactDetails": "sales@granadasuppliers.com"
+        "vendor": "Anura",
+        "contactDetails": "072 340 6154"
     },
     {
-        "itemType": "Fruits & Vegetables",
+        "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Malabe",
-        "vendor": "Granada",
-        "contactDetails": "sales@granadasuppliers.com"
+        "vendor": "Aswenna Organic",
+        "contactDetails": "077 777 2964",
+        "comments": "Only available on 1st and 2nd April"
     },
     {
-        "itemType": "Fruits & Vegetables",
-        "district": "Colombo",
-        "areaServed": "Malabe",
-        "vendor": "Granada",
-        "contactDetails": "sales@granadasuppliers.com"
-    },
-    {
-        "itemType": "Fruits & Vegetables",
+        "itemType": "Sprats",
         "district": "Colombo",
         "areaServed": "Mirihana",
-        "vendor": "Granada",
-        "contactDetails": "sales@granadasuppliers.com",
-        "comments": "No Deliveries To Nawala"
+        "vendor": "Chamara",
+        "contactDetails": "076 971 8839"
     },
     {
-        "itemType": "Fruits & Vegetables",
+        "itemType": "Vegetables",
         "district": "Colombo",
-        "areaServed": "Moratuwa",
-        "vendor": "Granada",
-        "contactDetails": "sales@granadasuppliers.com"
+        "areaServed": "Mirihana",
+        "vendor": "Chamara",
+        "contactDetails": "076 971 8839"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Moratuwa",
-        "vendor": "Honest Greens",
-        "contactDetails": "WhatsApp 077 345 7878"
+        "vendor": "Fresh Box",
+        "contactDetails": "077 333 1980 / 077 878 6288"
     },
     {
-        "itemType": "Strawberries",
+        "itemType": "Fruits",
         "district": "Colombo",
-        "areaServed": "Most Areas",
-        "vendor": "Jagro",
-        "contactDetails": "WhatsApp 077 038 6237 / 077 337 4498"
+        "areaServed": "Moratuwa",
+        "vendor": "Asiri Fruit Center",
+        "contactDetails": "077 826 5905"
     },
     {
-        "itemType": "Strawberries",
+        "itemType": "Fruits",
         "district": "Colombo",
-        "areaServed": "Most Areas",
-        "vendor": "Jagro",
-        "contactDetails": "WhatsApp 077 038 6237 / 077 337 4498"
+        "areaServed": "Moratuwa",
+        "vendor": "Kumara Fruit Shop",
+        "contactDetails": "077 131 3192"
     },
     {
-        "itemType": "Strawberries",
+        "itemType": "Green Leaves / Pala",
         "district": "Colombo",
-        "areaServed": "Most Areas",
-        "vendor": "Jagro",
-        "contactDetails": "WhatsApp 077 038 6237 / 077 337 4498"
-    },
-    {
-        "itemType": "Strawberries",
-        "district": "Colombo",
-        "areaServed": "Most Areas",
-        "vendor": "Jagro",
-        "contactDetails": "WhatsApp 077 038 6237 / 077 337 4498"
-    },
-    {
-        "itemType": "Strawberries",
-        "district": "Colombo",
-        "areaServed": "Mount Lavinia",
-        "vendor": "Jagro",
-        "contactDetails": "WhatsApp 077 038 6237 / 077 337 4498"
-    },
-    {
-        "itemType": "Strawberries",
-        "district": "Colombo",
-        "areaServed": "Mount Lavinia",
-        "vendor": "Jagro",
-        "contactDetails": "WhatsApp 077 038 6237 / 077 337 4498"
-    },
-    {
-        "itemType": "Strawberries",
-        "district": "Colombo",
-        "areaServed": "Mount Lavinia",
-        "vendor": "Jagro",
-        "contactDetails": "WhatsApp 077 038 6237 / 077 337 4498"
-    },
-    {
-        "itemType": "Fruits & Vegetables",
-        "district": "Colombo",
-        "areaServed": "Mount Lavinia",
-        "vendor": "Janaka",
-        "contactDetails": "076-781 7676"
-    },
-    {
-        "itemType": "Fruits & Vegetables",
-        "district": "Colombo",
-        "areaServed": "Mount Lavinia",
-        "vendor": "Janaka",
-        "contactDetails": "076-781 7676"
+        "areaServed": "Moratuwa",
+        "vendor": "Suranga Mahesh",
+        "contactDetails": "072 215 4102"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
-        "areaServed": "Nawala",
-        "vendor": "Jumana Rahim",
-        "contactDetails": "070-269 9206",
-        "comments": "Mixed Reviews"
+        "areaServed": "Most Areas",
+        "vendor": "Ark Agronics Pvt Ltd",
+        "contactDetails": "011 239 2997 / 076 527 2129"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
-        "areaServed": "Nawala",
-        "vendor": "Lakshman",
-        "contactDetails": "077 721 5303"
+        "areaServed": "Most Areas",
+        "vendor": "Fresh Elawalu",
+        "contactDetails": "075 642 0760 / or Facebook"
     },
     {
         "itemType": "Fruits & Vegetables",
         "district": "Colombo",
-        "areaServed": "Nawala",
+        "areaServed": "Most Areas",
         "vendor": "Lassana Flora",
         "contactDetails": "www.lassana.com"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
+        "areaServed": "Most Areas",
+        "vendor": "Saaraketha",
+        "contactDetails": "011 239 2997 / 076 527 2129 \nhttps://www.saaraketha.com",
+        "comments": "Currently deliveries are on hold"
+    },
+    {
+        "itemType": "Onions",
+        "district": "Colombo",
+        "areaServed": "Mount Lavinia",
+        "vendor": "Five Star Bakers",
+        "contactDetails": "0115299714 / 0115299711 / 0112733967",
+        "comments": "Orders taken 9-6"
+    },
+    {
+        "itemType": "Potatoes",
+        "district": "Colombo",
+        "areaServed": "Mount Lavinia",
+        "vendor": "Five Star Bakers",
+        "contactDetails": "0115299714 / 0115299711 / 0112733967",
+        "comments": "Orders taken 9-6"
+    },
+    {
+        "itemType": "Vegetables",
+        "district": "Colombo",
+        "areaServed": "Mount Lavinia",
+        "vendor": "Five Star Bakers",
+        "contactDetails": "0115299714 / 0115299711 / 0112733967",
+        "comments": "Orders taken 9-6"
+    },
+    {
+        "itemType": "Vegetables",
+        "district": "Colombo",
+        "areaServed": "Mount Lavinia",
+        "vendor": "Fresh Box",
+        "contactDetails": "077 333 1980 / 077 878 6288"
+    },
+    {
+        "itemType": "Vegetables",
+        "district": "Colombo",
+        "areaServed": "Mount Lavinia",
+        "vendor": "www.www.lkcart.Com",
+        "contactDetails": "Order online"
+    },
+    {
+        "itemType": "Vegetables",
+        "district": "Colombo",
+        "areaServed": "Nawala",
+        "vendor": "Aswenna Organic",
+        "contactDetails": "077 777 2964",
+        "comments": "Only available on 1st and 2nd April"
+    },
+    {
+        "itemType": "Fruits & Vegetables",
+        "district": "Colombo",
+        "areaServed": "Nawala",
+        "vendor": "Granada",
+        "contactDetails": "sales@granadasuppliers.com",
+        "comments": "No deliveries to Nawala"
+    },
+    {
+        "itemType": "Strawberries",
+        "district": "Colombo",
+        "areaServed": "Nawala",
+        "vendor": "Jagro",
+        "contactDetails": "WhatsApp 0770386237 / 0773374498"
+    },
+    {
+        "itemType": "Vegetables",
+        "district": "Colombo",
         "areaServed": "Nawinna",
-        "vendor": "No Name",
-        "contactDetails": "WhatsApp or SMS 071-018 3592"
+        "vendor": "Honest Greens",
+        "contactDetails": "WhatsApp 077 345 7878"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Nedimala",
-        "vendor": "No Name",
-        "contactDetails": "076-300 4260"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Colombo",
-        "areaServed": "Negambo",
-        "vendor": "No Name",
-        "contactDetails": "WhatsApp or SMS 071-687 7065"
+        "vendor": "Fresh Box",
+        "contactDetails": "077 333 1980 / 077 878 6288"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Nugegoda",
-        "vendor": "No Name",
-        "contactDetails": "Pre-Orders Only 075-456 9518‬"
+        "vendor": "Aswenna Organic",
+        "contactDetails": "077 777 2964",
+        "comments": "Only available on 1st and 2nd April"
+    },
+    {
+        "itemType": "Sprats",
+        "district": "Colombo",
+        "areaServed": "Nugegoda",
+        "vendor": "Chamara",
+        "contactDetails": "076 971 8839"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Nugegoda",
-        "vendor": "No Name",
-        "contactDetails": "WhatsApp or SMS 071 198 5545"
+        "vendor": "Chamara",
+        "contactDetails": "076 971 8839"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Nugegoda",
-        "vendor": "No Name",
-        "contactDetails": "WhatsApp or SMS 071 430 7661"
+        "vendor": "Fresh Box",
+        "contactDetails": "077 333 1980 / 077 878 6288"
     },
     {
-        "itemType": "Potatoes",
+        "itemType": "Fruits & Vegetables",
         "district": "Colombo",
         "areaServed": "Nugegoda",
-        "vendor": "No Name",
-        "contactDetails": "WhatsApp 077 828 8889"
+        "vendor": "Granada",
+        "contactDetails": "sales@granadasuppliers.com"
     },
     {
-        "itemType": "Onions",
+        "itemType": "Strawberries",
         "district": "Colombo",
         "areaServed": "Nugegoda",
-        "vendor": "No Name",
-        "contactDetails": "WhatsApp 077 828 8889"
+        "vendor": "Jagro",
+        "contactDetails": "WhatsApp 0770386237 / 0773374498"
     },
     {
         "itemType": "Fruits",
@@ -486,37 +518,64 @@
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Nugegoda",
-        "vendor": "Saaraketha",
-        "contactDetails": "011-239 2997 / 076-527 2129 \nhttps://www.saaraketha.com",
-        "comments": "Currently Deliveries Are On Hold"
+        "vendor": "Shiromi Gajanayake",
+        "contactDetails": "071 366 5842 / 077 366 5842 / 071 803 4035"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
+        "areaServed": "Nugegoda",
+        "vendor": "www.www.lkcart.Com",
+        "contactDetails": "Order online"
+    },
+    {
+        "itemType": "Vegetables",
+        "district": "Colombo",
+        "areaServed": "Pamunugama, Ja Ela, Uswetakiyawa",
+        "vendor": "Shan Meemanage",
+        "contactDetails": "077 662 2623 / 076 823 1675"
+    },
+    {
+        "itemType": "Strawberries",
+        "district": "Colombo",
         "areaServed": "Pelawatta",
-        "vendor": "Shiromi Gajanayake",
-        "contactDetails": "071-366 5842 / 077-366 5842 / 071-803 4035"
+        "vendor": "Jagro",
+        "contactDetails": "WhatsApp 0770386237 / 0773374498"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Pelawatta & Suburbs",
-        "vendor": "Shiromi Gajanayake",
-        "contactDetails": "071-366 5842 / 077-366 5842 / 071-803 4035"
+        "vendor": "No Name",
+        "contactDetails": "WhatsApp or SMS 071 198 5545"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Piliyandala",
         "vendor": "Shiromi Gajanayake",
-        "contactDetails": "071-366 5842 / 077-366 5842 / 071-803 4035"
+        "contactDetails": "071 366 5842 / 077 366 5842 / 071 803 4035"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
+        "areaServed": "Piliyandala And Suburbs",
+        "vendor": "Delivery Shop",
+        "contactDetails": "077 818 0509 / 076 909 8367"
+    },
+    {
+        "itemType": "Vegetables",
+        "district": "Colombo",
+        "areaServed": "Piliyandala And Suburbs",
+        "vendor": "Home Delivery",
+        "contactDetails": "071 615 9098"
+    },
+    {
+        "itemType": "Strawberries",
+        "district": "Colombo",
         "areaServed": "Rajagiriya",
-        "vendor": "Shiromi Gajanayake",
-        "contactDetails": "071-366 5842 / 077-366 5842 / 071-803 4035"
+        "vendor": "Jagro",
+        "contactDetails": "WhatsApp 0770386237 / 0773374498"
     },
     {
         "itemType": "Vegetables",
@@ -529,107 +588,87 @@
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Rajagiriya & Suburbs",
-        "vendor": "Shiromi Gajanayake",
-        "contactDetails": "071 366 5842 / 077 366 5842 / 071 803 4035"
+        "vendor": "No Name",
+        "contactDetails": "WhatsApp or SMS 071 430 7661"
+    },
+    {
+        "itemType": "Onions",
+        "district": "Colombo",
+        "areaServed": "Ratmalana",
+        "vendor": "Five Star Bakers",
+        "contactDetails": "0115883251 / 0115883253 / 0115288454 / 0115299713",
+        "comments": "Orders taken 9-6"
+    },
+    {
+        "itemType": "Potatoes",
+        "district": "Colombo",
+        "areaServed": "Ratmalana",
+        "vendor": "Five Star Bakers",
+        "contactDetails": "0115883251 / 0115883253 / 0115288454 / 0115299713",
+        "comments": "Orders taken 9-6"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Ratmalana",
-        "vendor": "Shiromi Gajanayake",
-        "contactDetails": "071 366 5842 / 077 366 5842 / 071 803 4035"
+        "vendor": "Five Star Bakers",
+        "contactDetails": "0115883251 / 0115883253 / 0115288454 / 0115299713",
+        "comments": "Orders taken 9-6"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Ratmalana",
-        "vendor": "Shiromi Gajanayake",
-        "contactDetails": "071 366 5842 / 077 366 5842 / 071 803 4035"
-    },
-    {
-        "itemType": "Fruits & Vegetables",
-        "district": "Colombo",
-        "areaServed": "Ratmalana",
-        "vendor": "Sumith Weerasinghe",
-        "contactDetails": "011-215 0957 / 070-571 1172 / 071-301 3596"
+        "vendor": "Fresh Box",
+        "contactDetails": "077 333 1980 / 077 878 6288"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Ratmalana",
-        "vendor": "Www.Lkcart.Com",
-        "contactDetails": "Order Online"
+        "vendor": "www.www.lkcart.Com",
+        "contactDetails": "Order online"
     },
     {
-        "itemType": "Vegetables",
+        "itemType": "Fruits",
         "district": "Colombo",
-        "areaServed": "Ratmalana",
-        "vendor": "Www.Lkcart.Com",
-        "contactDetails": "Order Online"
+        "areaServed": "Rawatawatta",
+        "vendor": "Kumara Fruit Shop",
+        "contactDetails": "077 131 3192"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Thalawathugoda",
-        "vendor": "Www.Lkcart.Com",
-        "contactDetails": "Order Online"
+        "vendor": "Shiromi Gajanayake",
+        "contactDetails": "071 366 5842 / 077 366 5842 / 071 803 4035"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Thalawathugoda",
-        "vendor": "Www.Lkcart.Com",
-        "contactDetails": "Order Online"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Colombo",
-        "areaServed": "Undefined",
-        "vendor": "Www.Lkcart.Com",
-        "contactDetails": "Order Online"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Colombo",
-        "areaServed": "Undefined",
-        "vendor": "Www.Lkcart.Com",
-        "contactDetails": "Order Online"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Colombo",
-        "areaServed": "Wattala",
-        "vendor": "Www.Lkcart.Com",
-        "contactDetails": "Order Online"
+        "vendor": "www.www.lkcart.Com",
+        "contactDetails": "Order online"
     },
     {
         "itemType": "Vegetables",
         "district": "Colombo",
         "areaServed": "Wellawatta",
-        "vendor": "Www.Lkcart.Com",
-        "contactDetails": "Order Online"
-    },
-    {
-        "itemType": "Potatoes",
-        "district": "Gampaha",
-        "areaServed": "Biyagama",
-        "vendor": "Lakshman",
-        "contactDetails": "077 721 5303"
+        "vendor": "Fresh Box",
+        "contactDetails": "077 333 1980 / 077 878 6288"
     },
     {
         "itemType": "Vegetables",
-        "district": "Gampaha",
-        "areaServed": "Biyagama",
-        "vendor": "Manchanayaka Stores",
-        "contactDetails": "077 578 6247"
+        "district": "Colombo",
+        "vendor": "Jumana Rahim",
+        "contactDetails": "070 269 9206",
+        "comments": "Mixed Reviews"
     },
     {
         "itemType": "Vegetables",
-        "district": "Gampaha",
-        "areaServed": "Biyagama",
-        "vendor": "Minuwangoda Co-Op",
-        "contactDetails": "011 563 7404",
-        "comments": 300
+        "district": "Colombo",
+        "vendor": "No Name",
+        "contactDetails": "076 300 4260"
     },
     {
         "itemType": "Vegetables",
@@ -639,54 +678,26 @@
         "contactDetails": "077 942 8695"
     },
     {
+        "itemType": "Vegetables",
+        "district": "Gampaha",
+        "areaServed": "Negombo",
+        "vendor": "Co-Op",
+        "contactDetails": "077 396 5867 / 077 720 6493 / 077 194 5945"
+    },
+    {
+        "itemType": "Vegetables",
+        "district": "Gampaha",
+        "areaServed": "Wattala",
+        "vendor": "Lakshman",
+        "contactDetails": "077 721 5303"
+    },
+    {
         "itemType": "Fruits & Vegetables",
         "district": "Gampaha",
-        "areaServed": "Minuwangoda",
+        "areaServed": "Wattala",
         "vendor": "OMG Foods",
         "contactDetails": "SMS or WhatsApp 070 510 1077",
-        "comments": "Upto A 10KM Radius"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Gampaha",
-        "areaServed": "Wattala",
-        "vendor": "Podimalli Kade",
-        "contactDetails": "072 355 5081"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Gampaha",
-        "areaServed": "Wattala",
-        "vendor": "Snadamali Kade",
-        "contactDetails": "011 292 2356"
-    },
-    {
-        "itemType": "Fruits & Vegetables",
-        "district": "Kalutara",
-        "areaServed": "Batuwita, Pokunuwita, Horana And Suburbs",
-        "vendor": "Amarabandu",
-        "contactDetails": "071 879 7160"
-    },
-    {
-        "itemType": "Onion/ Potatoes",
-        "district": "Kalutara",
-        "areaServed": "Batuwita, Pokunuwita, Horana And Suburbs",
-        "vendor": "Arool",
-        "contactDetails": "077 086 8688"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Kalutara",
-        "areaServed": "Batuwita, Pokunuwita, Horana And Suburbs",
-        "vendor": "BA Padmasiri",
-        "contactDetails": "077 606 8293"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Kalutara",
-        "areaServed": "Batuwita, Pokunuwita, Horana And Suburbs",
-        "vendor": "Chaminda Saman",
-        "contactDetails": "077 617 7857"
+        "comments": "Upto a 10KM radius"
     },
     {
         "itemType": "Vegetables",
@@ -699,6 +710,48 @@
         "itemType": "Vegetables",
         "district": "Kalutara",
         "areaServed": "Batuwita, Pokunuwita, Horana And Suburbs",
+        "vendor": "Krishan Chaminda",
+        "contactDetails": "075 337 2360"
+    },
+    {
+        "itemType": "Vegetables",
+        "district": "Kalutara",
+        "areaServed": "Batuwita, Pokunuwita, Horana And Suburbs",
+        "vendor": "Lakshman Wijeratne",
+        "contactDetails": "076 383 8392"
+    },
+    {
+        "itemType": "Vegetables",
+        "district": "Kalutara",
+        "areaServed": "Batuwita, Pokunuwita, Horana And Suburbs",
+        "vendor": "Lasantha Kumara",
+        "contactDetails": "077 960 1949"
+    },
+    {
+        "itemType": "Vegetables",
+        "district": "Kalutara",
+        "areaServed": "Batuwita, Pokunuwita, Horana And Suburbs",
+        "vendor": "Supun Nilanga",
+        "contactDetails": "077 974 2461"
+    },
+    {
+        "itemType": "Vegetables",
+        "district": "Kalutara",
+        "areaServed": "Batuwita, Pokunuwita, Horana And Suburbs",
+        "vendor": "Kolita WD",
+        "contactDetails": "071 217 6257 / 034 226 5659"
+    },
+    {
+        "itemType": "Vegetables",
+        "district": "Kalutara",
+        "areaServed": "Horana And Suburbs",
+        "vendor": "Chaminda Saman",
+        "contactDetails": "077 617 7857"
+    },
+    {
+        "itemType": "Vegetables",
+        "district": "Kalutara",
+        "areaServed": "Horana And Suburbs",
         "vendor": "Damith Kumara",
         "contactDetails": "077 379 2511"
     },
@@ -710,24 +763,31 @@
         "contactDetails": "076 177 2719"
     },
     {
-        "itemType": "Fruits & Vegetables",
+        "itemType": "Vegetables",
         "district": "Kalutara",
         "areaServed": "Horana And Suburbs",
-        "vendor": "Golden Harvest Agro Park",
-        "contactDetails": "071 276 7047- WhatsApp, 077 526 7980- SMS/ Call"
+        "vendor": "Lal Wipulasiri",
+        "contactDetails": "034 226 1380"
+    },
+    {
+        "itemType": "Vegetables",
+        "district": "Kalutara",
+        "areaServed": "Horana And Suburbs",
+        "vendor": "Prabash Chandrasena",
+        "contactDetails": "077 863 4312"
+    },
+    {
+        "itemType": "Vegetables",
+        "district": "Kalutara",
+        "areaServed": "Horana And Suburbs",
+        "vendor": "Suranga Sanjeewa",
+        "contactDetails": "077 082 6209"
     },
     {
         "itemType": "Fruits & Vegetables",
         "district": "Kalutara",
         "areaServed": "Horana And Suburbs",
-        "vendor": "Indika Kumara",
-        "contactDetails": "077 600 6561"
-    },
-    {
-        "itemType": "Fruits & Vegetables",
-        "district": "Kalutara",
-        "areaServed": "Horana And Suburbs",
-        "vendor": "Indika Kumara",
+        "vendor": "MK Indika Kumara",
         "contactDetails": "077 600 6561"
     },
     {
@@ -741,71 +801,22 @@
         "itemType": "Vegetables",
         "district": "Kalutara",
         "areaServed": "Horana And Suburbs",
-        "vendor": "Kolita WD",
-        "contactDetails": "071 217 6257 / 034 226 5659"
+        "vendor": "Thusitha Harshana",
+        "contactDetails": "077 470 1187"
+    },
+    {
+        "itemType": "Onion/ Potatoes",
+        "district": "Kalutara",
+        "areaServed": "Horana And Suburbs",
+        "vendor": "Arool",
+        "contactDetails": "077 086 8688"
     },
     {
         "itemType": "Vegetables",
         "district": "Kalutara",
-        "areaServed": "Horana And Suburbs",
-        "vendor": "Krishan Chaminda",
-        "contactDetails": "075 337 2360"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Kalutara",
-        "areaServed": "Horana And Suburbs",
-        "vendor": "Lakshman Wijeratne",
-        "contactDetails": "076 383 8392"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Kalutara",
-        "areaServed": "Horana And Suburbs",
-        "vendor": "Lal Wipulasiri",
-        "contactDetails": "034 226 1380"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Kalutara",
-        "areaServed": "Horana And Suburbs",
-        "vendor": "Lasantha Kumara",
-        "contactDetails": "077 960 1949"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Kalutara",
-        "areaServed": "Horana And Suburbs",
-        "vendor": "MTA Karunaratne",
-        "contactDetails": "076 046 0795"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Kalutara",
-        "areaServed": "Horana And Suburbs",
-        "vendor": "Prabash Chandrasena",
-        "contactDetails": "077 863 4312"
-    },
-    {
-        "itemType": "Mushroom",
-        "district": "Kalutara",
-        "areaServed": "Horana And Suburbs",
-        "vendor": "Pushpa Kusumlatha",
-        "contactDetails": "077 818 1744"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Kalutara",
-        "areaServed": "Horana And Suburbs",
-        "vendor": "R. Niroshan",
-        "contactDetails": "076 775 2021"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Kalutara",
-        "areaServed": "Horana, Ingiriya, Bandargama, Bulathsinhala, Mathugama, Baduraliya",
-        "vendor": "Sampath Athukorala",
-        "contactDetails": "071 325 1684"
+        "areaServed": "Ingiriya",
+        "vendor": "RNJ Vegetable Stores",
+        "contactDetails": "077 173 8472 / 077 207 2137"
     },
     {
         "itemType": "Vegetables",
@@ -815,39 +826,17 @@
         "contactDetails": "076 305 7616"
     },
     {
-        "itemType": "Vegetables",
+        "itemType": "Fruits & Vegetables",
         "district": "Kalutara",
         "areaServed": "North, South Uduwa, Maha Uduwa, Kuda Uduwa",
-        "vendor": "Supun Nilanga",
-        "contactDetails": "077 974 2461"
+        "vendor": "Amarabandu",
+        "contactDetails": "071 879 7160"
     },
     {
-        "itemType": "Vegetables",
+        "itemType": "Mushroom",
         "district": "Kalutara",
         "areaServed": "North, South Uduwa, Maha Uduwa, Kuda Uduwa",
-        "vendor": "Thusitha Harshana",
-        "contactDetails": "077 470 1187"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Kalutara",
-        "areaServed": "North, South Uduwa, Maha Uduwa, Kuda Uduwa",
-        "vendor": "Vegetables And Groceries",
-        "contactDetails": "071 299 4302"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Kalutara",
-        "areaServed": "Panadura",
-        "vendor": "WW Suranga Sanjeewa",
-        "contactDetails": "077 082 6209"
-    },
-    {
-        "itemType": "Vegetables",
-        "district": "Rathnapura",
-        "areaServed": "Rathnapura ( This District Only)",
-        "vendor": "Rathanpura Co-Op",
-        "contactDetails": "071 253 3614/ 071 081 0308/ 071 828 2221",
-        "comments": 1000
+        "vendor": "Pushpa Kusumlatha",
+        "contactDetails": "077 818 1744"
     }
 ]

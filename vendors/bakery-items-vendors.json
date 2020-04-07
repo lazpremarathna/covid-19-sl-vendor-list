@@ -1,17 +1,24 @@
 ﻿[
     {
-        "itemType": "Bread",
+        "itemType": "Bread And Buns",
         "district": "Colombo",
         "areaServed": "Boralesgamuwa",
+        "vendor": "Susiko",
+        "contactDetails": 772992920
+    },
+    {
+        "itemType": "Bread",
+        "district": "Colombo",
+        "areaServed": "Colombo",
         "vendor": "Paan Paan",
-        "contactDetails": "077 050 0020"
+        "contactDetails": 770500020
     },
     {
         "itemType": "Bread",
         "district": "Colombo",
         "areaServed": "Colombo",
         "vendor": "Sensaal",
-        "contactDetails": "076 434 3030"
+        "contactDetails": 764343030
     },
     {
         "itemType": "Bread",
@@ -25,52 +32,45 @@
         "district": "Colombo",
         "areaServed": "Colombo",
         "vendor": "Finagle",
-        "contactDetails": "077 726 7797"
+        "contactDetails": 777267797
     },
     {
-        "itemType": "Bread",
+        "itemType": "Savory Items",
         "district": "Colombo",
         "areaServed": "Colombo",
-        "vendor": "Finagle Delivery",
-        "contactDetails": "077 265 3457"
-    },
-    {
-        "itemType": "Bread",
-        "district": "Colombo",
-        "areaServed": "Colombo",
-        "vendor": "Five Star Bakers",
-        "contactDetails": "011 529 9714 / 011 529 9711 / 011 273 3967",
-        "comments": "Orders Taken 9-6"
+        "vendor": "Sensaal",
+        "contactDetails": "076 607 7888"
     },
     {
         "itemType": "Bread",
         "district": "Colombo",
         "areaServed": "Dehiwela",
-        "vendor": "No Name",
-        "contactDetails": "077 778 8835"
+        "vendor": "Finagle Delivery",
+        "contactDetails": 772653457
     },
     {
         "itemType": "Bread",
         "district": "Colombo",
         "areaServed": "Mount Lavinia",
         "vendor": "Five Star Bakers",
-        "contactDetails": "011 588 3251 / 011 588 3253 / 011 528 8454 / 011 529 9713",
-        "comments": "Orders Taken 9-6"
+        "contactDetails": "011 529 9714 / 011 529 9711 / 011 273 3967",
+        "comments": "Orders taken 9-6"
     },
     {
-        "itemType": "Bread & Buns",
+        "itemType": "Cake",
         "district": "Colombo",
         "areaServed": "Mount Lavinia",
-        "vendor": "Susiko",
-        "contactDetails": "077 299 2920"
-    },
-    {
-        "itemType": "Cake",
-        "district": "Colombo",
-        "areaServed": "Panadura",
         "vendor": "Five Star Bakers",
         "contactDetails": "011 529 9714 / 011 529 9711 / 011 273 3967",
-        "comments": "Orders Taken 9-6"
+        "comments": "Orders taken 9-6"
+    },
+    {
+        "itemType": "Bread",
+        "district": "Colombo",
+        "areaServed": "Ratmalana",
+        "vendor": "Five Star Bakers",
+        "contactDetails": "011 588 3251 / 011 588 3253 / 011 528 8454 / 011 529 9713",
+        "comments": "Orders taken 9-6"
     },
     {
         "itemType": "Cake",
@@ -78,27 +78,20 @@
         "areaServed": "Ratmalana",
         "vendor": "Five Star Bakers",
         "contactDetails": "011 588 3251 / 011 588 3253 / 011 528 8454 / 011 529 9713",
-        "comments": "Orders Taken 9-6"
-    },
-    {
-        "itemType": "Savory Items",
-        "district": "Colombo",
-        "areaServed": "Ratmalana",
-        "vendor": "Sensaal",
-        "contactDetails": "076 607 7888"
+        "comments": "Orders taken 9-6"
     },
     {
         "itemType": "Bakery Products",
         "district": "Kalutara",
         "areaServed": "Batuwita, Pokunuwita, Horana And Suburbs",
         "vendor": "Devika Kariyawasam",
-        "contactDetails": "071 275 7681"
+        "contactDetails": 712757681
     },
     {
         "itemType": "Bread",
         "district": "Kalutara",
         "areaServed": "Panadura",
-        "vendor": "Bakery Products",
-        "contactDetails": "077 778 8835"
+        "vendor": "No Name",
+        "contactDetails": 777788835
     }
 ]

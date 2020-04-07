@@ -107,20 +107,6 @@
     {
         "itemType": "Gas",
         "district": "Colombo",
-        "areaServed": "Malabe",
-        "vendor": "Anura",
-        "contactDetails": 723406154
-    },
-    {
-        "itemType": "Gas",
-        "district": "Colombo",
-        "areaServed": "Most Areas",
-        "vendor": "Pick Me",
-        "contactDetails": "Mobile App"
-    },
-    {
-        "itemType": "Gas",
-        "district": "Colombo",
         "areaServed": "Akuregoda",
         "vendor": "NV Perera",
         "contactDetails": "077-542 5335"
@@ -177,20 +163,6 @@
     {
         "itemType": "Gas",
         "district": "Colombo",
-        "areaServed": "Colombo 10",
-        "vendor": "Hafza Gas Center",
-        "contactDetails": "077-881 7799"
-    },
-    {
-        "itemType": "Gas",
-        "district": "Colombo",
-        "areaServed": "Colombo 11",
-        "vendor": "Wimalagiri Enterprises",
-        "contactDetails": "011-279 8345"
-    },
-    {
-        "itemType": "Gas",
-        "district": "Colombo",
         "areaServed": "Colombo 1-15",
         "vendor": "Laugh Gas",
         "contactDetails": "077-382 3650"
@@ -201,6 +173,20 @@
         "areaServed": "Colombo 1-15",
         "vendor": "Laugh Gas",
         "contactDetails": "077-226 0463"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Colombo 10",
+        "vendor": "Hafza Gas Center",
+        "contactDetails": "077-881 7799"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Colombo 11",
+        "vendor": "Wimalagiri Enterprises",
+        "contactDetails": "011-279 8345"
     },
     {
         "itemType": "Gas",
@@ -352,6 +338,20 @@
     {
         "itemType": "Gas",
         "district": "Colombo",
+        "areaServed": "Lunawa",
+        "vendor": "Sujeewa Grocery Store",
+        "contactDetails": 755314872
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Malabe",
+        "vendor": "Anura",
+        "contactDetails": 723406154
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
         "areaServed": "Malabe",
         "vendor": "Sanusansana Gas Center",
         "contactDetails": "077-720 0898"
@@ -376,6 +376,13 @@
         "areaServed": "Moratuwa",
         "vendor": "Ravi Gas",
         "contactDetails": "077-148 2185"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Colombo",
+        "areaServed": "Most Areas",
+        "vendor": "Pick Me",
+        "contactDetails": "Mobile App"
     },
     {
         "itemType": "Gas",
@@ -730,20 +737,6 @@
     {
         "itemType": "Gas",
         "district": "Kalutara",
-        "areaServed": "Batuwita, Pokunuwita, Horana And Suburbs",
-        "vendor": "Kolita WD",
-        "contactDetails": "0712176257/ 0342265659"
-    },
-    {
-        "itemType": "Gas",
-        "district": "Kalutara",
-        "areaServed": "Horana And Suburbs",
-        "vendor": "BA Padmasiri",
-        "contactDetails": 776068293
-    },
-    {
-        "itemType": "Gas",
-        "district": "Kalutara",
         "areaServed": "Aluthgama",
         "vendor": "Jayantha Peris",
         "contactDetails": "077-086 2002"
@@ -761,6 +754,13 @@
         "areaServed": "Bandaragama",
         "vendor": "Sri Pathi Communication",
         "contactDetails": "038-229 0750"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Batuwita, Pokunuwita, Horana And Suburbs",
+        "vendor": "Kolita WD",
+        "contactDetails": "071 217 6257 / 034 226 5659"
     },
     {
         "itemType": "Gas",
@@ -789,6 +789,13 @@
         "areaServed": "Horana",
         "vendor": "Vibath Gas",
         "contactDetails": "077-309 3472"
+    },
+    {
+        "itemType": "Gas",
+        "district": "Kalutara",
+        "areaServed": "Horana And Suburbs",
+        "vendor": "BA Padmasiri",
+        "contactDetails": 776068293
     },
     {
         "itemType": "Gas",

@@ -1,1 +1,173 @@
-﻿
+﻿[
+    {
+        "itemType": "Cooked Meals",
+        "district": "Colombo",
+        "areaServed": "Battarmulla",
+        "vendor": "Kaha Bath Gedara",
+        "contactDetails": "077 766 0740 / 077 786 2672"
+    },
+    {
+        "itemType": "Cooked Meals",
+        "district": "Colombo",
+        "areaServed": "Colombo & Suburbs",
+        "vendor": "Mount Lavinia Hotel",
+        "contactDetails": "011 271 1711"
+    },
+    {
+        "itemType": "Cooked Meals",
+        "district": "Colombo",
+        "areaServed": "Colombo 4",
+        "vendor": "Thai Street Food",
+        "contactDetails": "SMS 077 732 6149 (pre-order)",
+        "comments": "Name, Address & Contact Number / Dlvry charge applies / limited orders"
+    },
+    {
+        "itemType": "Cooked Meals",
+        "district": "Colombo",
+        "areaServed": "Colombo 5",
+        "vendor": "Thai Street Food",
+        "contactDetails": "SMS 077 732 6149 (pre-order)",
+        "comments": "Name, Address & Contact Number / Dlvry charge applies / limited orders"
+    },
+    {
+        "itemType": "Cooked Meals",
+        "district": "Colombo",
+        "areaServed": "Colombo 6",
+        "vendor": "Thai Street Food",
+        "contactDetails": "SMS 077 732 6149 (pre-order)",
+        "comments": "Name, Address & Contact Number / Dlvry charge applies / limited orders"
+    },
+    {
+        "itemType": "Cooked Meals",
+        "district": "Colombo",
+        "areaServed": "Dehiwela",
+        "vendor": "Thai Street Food",
+        "contactDetails": "SMS 077 732 6149 (pre-order)",
+        "comments": "Name, Address & Contact Number / Dlvry charge applies / limited orders"
+    },
+    {
+        "itemType": "Cooked Meals",
+        "district": "Colombo",
+        "areaServed": "Kohuwela",
+        "vendor": "Thai Street Food",
+        "contactDetails": "SMS 077 732 6149 (pre-order)",
+        "comments": "Name, Address & Contact Number / Dlvry charge applies / limited orders"
+    },
+    {
+        "itemType": "Pizza",
+        "district": "Colombo",
+        "areaServed": "Kotte",
+        "vendor": "Belmio",
+        "contactDetails": "077 012 3166"
+    },
+    {
+        "itemType": "Cooked Meals",
+        "district": "Colombo",
+        "areaServed": "Kotte",
+        "vendor": "Sensaal",
+        "contactDetails": "077 013 2250"
+    },
+    {
+        "itemType": "Cooked Meals",
+        "district": "Colombo",
+        "areaServed": "Kotte",
+        "vendor": "Kaha Bath Gedara",
+        "contactDetails": "077 766 0740 / 077 786 2672"
+    },
+    {
+        "itemType": "Cooked Meals",
+        "district": "Colombo",
+        "areaServed": "Kotte",
+        "vendor": "Thai Street Food",
+        "contactDetails": "SMS 077 732 6149 (pre-order)",
+        "comments": "Name, Address & Contact Number / Dlvry charge applies / limited orders"
+    },
+    {
+        "itemType": "Cooked Meals",
+        "district": "Colombo",
+        "areaServed": "Malabe",
+        "vendor": "Kaha Bath Gedara",
+        "contactDetails": "077 766 0740 / 077 786 2672"
+    },
+    {
+        "itemType": "Cooked Meals",
+        "district": "Colombo",
+        "areaServed": "Moratuwa Police Area",
+        "vendor": "BIA Caterers",
+        "contactDetails": "011 264 5795 / 071 732 6525"
+    },
+    {
+        "itemType": "Cooked Meals",
+        "district": "Colombo",
+        "areaServed": "Mount Lavinia",
+        "vendor": "Thai Street Food",
+        "contactDetails": "SMS 077 732 6149 (pre-order)",
+        "comments": "Name, Address & Contact Number / Dlvry charge applies / limited orders"
+    },
+    {
+        "itemType": "Cooked Meals",
+        "district": "Colombo",
+        "areaServed": "Nawala",
+        "vendor": "Kaha Bath Gedara",
+        "contactDetails": "077 766 0740 / 077 786 2672"
+    },
+    {
+        "itemType": "Cooked Meals",
+        "district": "Colombo",
+        "areaServed": "Nawala",
+        "vendor": "Thai Street Food",
+        "contactDetails": "SMS 077 732 6149 (pre-order)",
+        "comments": "Name, Address & Contact Number / Dlvry charge applies / limited orders"
+    },
+    {
+        "itemType": "Cooked Meals",
+        "district": "Colombo",
+        "areaServed": "Nugegoda",
+        "vendor": "Kaha Bath Gedara",
+        "contactDetails": "077 766 0740 / 077 786 2672"
+    },
+    {
+        "itemType": "Cooked Meals",
+        "district": "Colombo",
+        "areaServed": "Nugegoda",
+        "vendor": "Thai Street Food",
+        "contactDetails": "SMS 077 732 6149 (pre-order)",
+        "comments": "Name, Address & Contact Number / Dlvry charge applies / limited orders"
+    },
+    {
+        "itemType": "Cooked Meals",
+        "district": "Colombo",
+        "areaServed": "Pelawatta",
+        "vendor": "Kaha Bath Gedara",
+        "contactDetails": "077 766 0740 / 077 786 2672"
+    },
+    {
+        "itemType": "Cooked Meals",
+        "district": "Colombo",
+        "areaServed": "Pepiliyana",
+        "vendor": "Thai Street Food",
+        "contactDetails": "SMS 077 732 6149 (pre-order)",
+        "comments": "Name, Address & Contact Number / Dlvry charge applies / limited orders"
+    },
+    {
+        "itemType": "Cooked Meals",
+        "district": "Colombo",
+        "areaServed": "Rajagiriya",
+        "vendor": "Kaha Bath Gedara",
+        "contactDetails": "077 766 0740 / 077 786 2672"
+    },
+    {
+        "itemType": "Cooked Meals",
+        "district": "Colombo",
+        "areaServed": "Thalawathugoda",
+        "vendor": "Kaha Bath Gedara",
+        "contactDetails": "077 766 0740 / 077 786 2672"
+    },
+    {
+        "itemType": "Cooked Meals",
+        "district": "Kandy",
+        "areaServed": "Kandy",
+        "vendor": "Gamana Taxi",
+        "contactDetails": "076 146 8910 / 081 220 3202"
+    }
+]
