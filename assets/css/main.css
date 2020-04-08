@@ -773,3 +773,8 @@ label {
 .page-link {
 	color: #999999 !important;
 }
+
+.fixed-table-toolbar {
+	margin-top: 2em;
+	padding-bottom: 3em;
+}
