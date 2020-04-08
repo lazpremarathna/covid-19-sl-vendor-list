@@ -11,10 +11,33 @@
 		content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
 	<meta name="HandheldFriendly" content="true">
 	<!-- Page Title -->
-	<title>Covid-19-SL | Gas Vendors List</title>
-	<meta name="author" content="All the Sri Lankans" />
-	<meta name="description" content="" />
-	<meta name="keywords" content="" />
+	<title>Covid 19 - Sri Lankan Resource Finder</title>
+	<meta name="author" content="Covid 19 - Sri Lankan Resource Finder" />
+	<meta name="description" content="A community powered COVID-19 vendor tracker for Sri Lanka." />
+	<meta name="keywords" content="A community powered COVID-19 vendor tracker for Sri Lanka." />
+
+	<link rel="canonical" href="https://lk.covid19resourcefinder.com/">
+	<meta property="og:title" content="Covid 19 - Sri Lankan Resource Finder" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://lk.covid19resourcefinder.com/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:site_name" content="Covid 19 - Sri Lankan Resource Finder">
+	<meta property="og:image"
+		content="https://lk.covid19resourcefinder.com/images/covid-19-sri-lankan-resource-finder-banner-01.png" />
+	<meta property="og:image:type" content="image/png" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+	<meta property="og:image:alt" content="A community powered COVID-19 vendor tracker for Sri Lanka." />
+	<meta property="og:description" content="A community powered COVID-19 vendor tracker for Sri Lanka." />
+
+	<meta property="twitter:card" content="summary" />
+	<meta property="twitter:url" content="https://lk.covid19resourcefinder.com/" />
+	<meta property="twitter:title" content="Covid 19 - Sri Lankan Resource Finder" />
+	<meta property="twitter:image"
+		content="https://lk.covid19resourcefinder.com/images/covid-19-sri-lankan-resource-finder-banner-01.png" />
+	<meta property="twitter:description" content="A community powered COVID-19 vendor tracker for Sri Lanka." />
+
+
 	<!-- Appearance -->
 	<meta name="theme-color" content="#1400AD">
 	<!-- Favicon -->
@@ -27,13 +50,25 @@
 	<link rel="stylesheet" id="muli"
 		href="https://fonts.googleapis.com/css2?family=Muli:wght@200;300;400;500;600;700;800&display=swap">
 	<!-- Plugin CSS -->
-	<link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.16.0/dist/bootstrap-table.min.css">
 
 	<!-- Custom CSS -->
 	<link href="assets/css/main.css" rel="stylesheet" type="text/css">
+	<link href="assets/css/button.css" rel="stylesheet" type="text/css">
 
-	<noscript>
-		<link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145115788-2"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-145115788-2');
+	</script>
 
 
 </head>
@@ -42,7 +77,7 @@
 
 	<nav class="navbar navbar-expand-lg navbar-light">
 		<div class="container">
-			<a class="navbar-brand" href="index.html">COVID -19 RESOURCE FINDER</a>
+			<a class="navbar-brand" href="https://lk.covid19resourcefinder.com/">COVID 19 RESOURCE FINDER</a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample07"
 				aria-controls="navbarsExample" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
@@ -51,16 +86,19 @@
 			<div class="collapse navbar-collapse" id="navbarsExample">
 				<ul class="navbar-nav ml-auto">
 					<li class="nav-item">
-						<a class="nav-link" href="#">GROCERIES</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="">FRUITS & VEGETABLES</a>
+						<a class="nav-link" href="grocery-vendors.html">GROCERIES</a>
 					</li>
 					<li class="nav-item active">
+						<a class="nav-link" href="fruits-&-vegetables-vendors.html">FRUITS & VEGETABLES</a>
+					</li>
+					<li class="nav-item">
 						<a class="nav-link" href="gas-vendors.html">GAS</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="gas-vendors.html">MEAT & FISH</a>
+						<a class="nav-link" href="medicines-vendors.html">MEDICINES</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="">ABOUT</a>
 					</li>
 				</ul>
 			</div>
