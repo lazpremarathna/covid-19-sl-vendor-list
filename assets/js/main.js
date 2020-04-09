@@ -1,13 +1,34 @@
-(function($) {
+(function ($) {
 
-	var	$window = $(window),
+	var $window = $(window),
 		$body = $('body');
 
 	// Play initial animations on page load.
-		$window.on('load', function() {
-			window.setTimeout(function() {
-				$body.removeClass('is-preload');
-			}, 100);
-		});
+	$window.on('load', function () {
+		window.setTimeout(function () {
+			$body.removeClass('is-preload');
+		}, 100);
+	});
+
+	// Smooth scrolling using jQuery easing
+	$('a.js-scroll-trigger[href*="#"]:not([href="#"])').click(function () {
+		if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
+			var target = $(this.hash);
+			target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+			if (target.length) {
+				$('html, body').animate({
+					scrollTop: (target.offset().top - 72)
+				}, 1000, "easeInOutExpo");
+				return false;
+			}
+		}
+	});
+
+	// Closes responsive menu when a scroll trigger link is clicked
+	$('.js-scroll-trigger').click(function () {
+		$('.navbar-collapse').collapse('hide');
+	});
 
 })(jQuery);
+
+new WOW().init();
