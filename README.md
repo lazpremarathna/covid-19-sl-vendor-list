@@ -6,7 +6,7 @@
 
 A community powered COVID-19 vendor tracker for Sri Lanka.
 
-The project is a mutiple page static HTML application running in the browser, pulling data in via a JSON file, and hosted on GitHub Pages.
+The project is a multiple pages static HTML application running in the browser, pulling data in via a JSON file, and hosted on GitHub Pages.
 
 ## Data Sources
 
