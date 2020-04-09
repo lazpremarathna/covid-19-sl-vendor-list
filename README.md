@@ -12,7 +12,7 @@ The project is a multiple pages static HTML application running in the browser, 
 
 For all information regarding the data powering this site, please visit the [covid-19-sl-vendors-list repo](https://github.com/lazpremarathna/covid-19-sl-vendors-list/).
 
-Our data is sourced from a variety of sources, primarily Sri Lankan facebook groups like [Grocery Delivery - Info](https://www.facebook.com/groups/198483924918626/).
+Our data is sourced from a variety of sources, primarily Sri Lankan Facebook groups like [Grocery Delivery - Info](https://www.facebook.com/groups/198483924918626/).
 
 ## Contributing Data
 
